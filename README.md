@@ -19,17 +19,20 @@ All about AI Agents you need are here
    - [Github](https://github.com/yoheinakajima/babyagi) ![](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)
 
    - paper: [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
-
 2. [Langchain](https://github.com/hwchase17/langchain)
    - [Github](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/hwchase17/langchain?style=round-square&logo=Github&logoColor=white)
-
 3. [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
    - [Github](https://github.com/Significant-Gravitas/Auto-GPT) ![](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)
-
 4. [MetaGPT](https://github.com/geekan/MetaGPT)
    - [Github](https://github.com/geekan/MetaGPT) ![](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)
    - Assign different roles to GPTs to form a collaborative software entity for complex tasks.
    - MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
+5. [Generative Agents](https://github.com/geekan/MetaGPT)
+   - [Github](https://github.com/joonspk-research/generative_agents) ![](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)
+
+
+
+
 
 
 ## Product
