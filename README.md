@@ -15,7 +15,7 @@ All about AI Agents you need are here
 
 ### Tools and Platforms
 
-### For Developers
+#### For Developers
 1. [BabyAGI](https://github.com/yoheinakajima/babyagi)
 
    - [Github](https://github.com/yoheinakajima/babyagi) ![](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)
@@ -29,7 +29,10 @@ All about AI Agents you need are here
 4. [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
    - [Github](https://github.com/Significant-Gravitas/Auto-GPT) ![](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)
 
-
+5. [MetaGPT](https://github.com/geekan/MetaGPT)
+   - [Github](https://github.com/geekan/MetaGPT) ![](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)
+   - Assign different roles to GPTs to form a collaborative software entity for complex tasks.
+   - MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
 
 
 ## Product
@@ -43,7 +46,6 @@ All about AI Agents you need are here
 1. [AgentGPT](https://agentgpt.reworkd.ai/)
    - [Github](https://github.com/reworkd/AgentGPT) ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white)
    - Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
-
 
 
 ## Useful Resources
