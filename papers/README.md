@@ -15,13 +15,12 @@
 5. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
    - [arXiv 2023.05.19](https://arxiv.org/pdf/2305.11598)
 6. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration**
-
    - [arXiv 2023.05.31](https://arxiv.org/pdf/2305.20076)
    - [Code](https://github.com/jlin816/dialop)
-7. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
-   - [arXiv 2023.05.19](https://arxiv.org/pdf/2305.11598)
 8. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.00660) **Minimum Levels of Interpretability for Artificial Moral Agents**
    - [arXiv 2023.07.02](https://arxiv.org/pdf/2307.00660)
+9. [[arXiv 2023.05]](https://arxiv.org/abs/2305.13246) **Interactive Natural Language Processing** `Survey`
+   - [arXiv 2023.05.22](https://arxiv.org/abs/2305.13246)
 
 ## Traditional
 

@@ -1,9 +1,17 @@
 # Autonomous AI Agents
-All about AI Agents you need are here
+All about Autonomous AI Agents you need are here.
+
+Currently, there are two main directions, LLM-based Agents and RL-based Agents. This repo mainly focuses on LLM-based Agents.
 
 **For more details please refer to:** [Ray's Notion Page](https://ruisun.notion.site/AI-Agents-02dfa18bd0ca448ea11e585f8b4bb40b?pvs=4)
 
 ## About Autonomous Agents
+**What is Agent?**
+Agent = LLM + Memory + Plan + Tool + Neuron + Intuition
+
+**How do agents collaborate?**
+Multi-agents = Agents + Environment + Auditing + Routing + Subscribtion + Economics
+
 
 
 ## Papers
@@ -16,9 +24,9 @@ For details please refer to [Papers List](papers)
 2. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.13854.pdf) **WebArena: A Realistic Web Environment for Building Autonomous Agents**
 3. [[arXiv 2023.05]](https://arxiv.org/pdf/2303.17580.pdf) **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**
 4. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.05300) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
-5. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
-6. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration** [[Code](https://github.com/jlin816/dialop)]
-7. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
+5. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration** [[Code](https://github.com/jlin816/dialop)]
+6. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
+7. [[arXiv 2023.05]](https://arxiv.org/abs/2305.13246) **Interactive Natural Language Processing** `Survey`
 8. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.00660) **Minimum Levels of Interpretability for Artificial Moral Agents**
 
 ### Traditional
@@ -39,5 +47,10 @@ For details please refer to [Products List](products)
 7. `Business` [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
 8. `Business` [AgentGPT](https://github.com/reworkd/AgentGPT) ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
 
-## Useful Resources
-1. [What is an AI agent?](https://zapier.com/blog/ai-agent/) By Miguel Rebelo · June 1, 2023
+## Useful Blogs and Resources 
+
+1. [AI领域的agent是什么意思？](https://www.zhihu.com/question/51195225/answer/3097467077) Answered by AI的潜意识 · July 3, 2023
+2. [What is an AI agent?](https://zapier.com/blog/ai-agent/) By Miguel Rebelo · June 1, 2023
+
+## References
+1. [MetaGPT作者深度解析直播回放](https://www.bilibili.com/video/BV1Ru411V7XL)

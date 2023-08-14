@@ -17,6 +17,9 @@
    - [Github](https://github.com/geekan/MetaGPT) ![](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)
    - Assign different roles to GPTs to form a collaborative software entity for complex tasks.
    - MetaGPT takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
+   - **Introduction Videos:**
+     - [MetaGPT作者深度解析直播回放](https://www.bilibili.com/video/BV1Ru411V7XL)
+     - [How To Install MetaGPT - Build A Startup With One Prompt!!](https://www.youtube.com/watch?v=uT75J_KG_aY)
 5. [Generative Agents](https://github.com/geekan/MetaGPT)
    - [Github](https://github.com/joonspk-research/generative_agents) ![](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)
    - ![stanford_generative_agents](assets/stanford_generative_agents.png)
