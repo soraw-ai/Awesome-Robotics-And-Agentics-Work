@@ -10,7 +10,7 @@ Currently, there are two main directions, LLM-based Agents and RL-based Agents. 
 Agent = LLM + Memory + Plan + Tool + Neuron + Intuition
 
 **How do agents collaborate?**
-Multi-agents = Agents + Environment + Auditing + Routing + Subscribtion + Economics
+Multi-agents = Agents + Environment + SOP + Auditing + Routing + Subscribtion + Economics
 
 
 
