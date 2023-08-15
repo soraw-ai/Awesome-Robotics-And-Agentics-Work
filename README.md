@@ -12,8 +12,6 @@ Agent = LLM + Memory + Plan + Tool + Neuron + Intuition
 **How do agents collaborate?**
 Multi-agents = Agents + Environment + SOP + Auditing + Routing + Subscribtion + Economics
 
-
-
 ## Papers
 
 For details please refer to [Papers List](papers)
@@ -46,11 +44,14 @@ For details please refer to [Products List](products)
 6. `R&D` [WebArena](https://github.com/web-arena-x/webarena) ![](https://img.shields.io/github/stars/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)
 7. `Business` [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
 8. `Business` [AgentGPT](https://github.com/reworkd/AgentGPT) ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
+9. `Business` [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
 
 ## Useful Blogs and Resources 
 
 1. [AI领域的agent是什么意思？](https://www.zhihu.com/question/51195225/answer/3097467077) Answered by AI的潜意识 · July 3, 2023
 2. [What is an AI agent?](https://zapier.com/blog/ai-agent/) By Miguel Rebelo · June 1, 2023
+3. [框架阅读：langchain精读](https://deepwisdom.feishu.cn/wiki/wikcnhYysy7aaewetJ2sUlZMbeh) by MetaGPT team · May 8, 2023
+4. [框架速度：SuperAGI](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team · Jun 5, 2023
 
 ## References
 1. [MetaGPT作者深度解析直播回放](https://www.bilibili.com/video/BV1Ru411V7XL)
