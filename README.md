@@ -12,6 +12,12 @@ Agent = LLM + Memory + Plan + Tool + Neuron + Intuition
 **How do agents collaborate?**
 Multi-agents = Agents + Environment + SOP + Auditing + Routing + Subscribtion + Economics
 
+**Three Models of Human-AI Synergy**
+1. AI Embedded mode: The original task flow remains unchanged, people perform it step by step, and at some point in the middle we stop doing it ourselves and hand it over to the AI.
+2. AI Copilot mode: Keeping the original task flow order, AI provides a shortcut to execute the entire task flow at once, and the whole process is transparent, so people can intervene at any step in between.
+3. AI Agent mode: People don't care how the task is executed, leave it all to AI.
+![Three Models of Human-AI Synergy](http://p1.itc.cn/images01/20230810/2ef929fbf16e43c68b0da53775dfd2d7.png)
+
 ## Papers
 
 For details please refer to [Papers List](papers)
@@ -33,6 +39,7 @@ For details please refer to [Papers List](papers)
 2. [[EMNLP’21]](https://aclanthology.org/2021.emnlp-main.85.pdf) **MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks**
 3. [[arXiv 2017.03]](https://arxiv.org/pdf/1704.00717) **It Takes Two to Tango: Towards Theory of AI's Mind**
 4. [[arXiv 2021.03]](https://arxiv.org/pdf/2103.09990) **Human-AI Symbiosis: A Survey of Current Approaches**
+5. [[arXiv 2023.08]](https://arxiv.org/abs/2308.08155) **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**
 
 ## Product
 For details please refer to [Products List](products)
@@ -55,3 +62,4 @@ For details please refer to [Products List](products)
 
 ## References
 1. [MetaGPT作者深度解析直播回放](https://www.bilibili.com/video/BV1Ru411V7XL)
+2. [从生成式AI到合成式AI ，MarTech下一步如何进化](http://news.sohu.com/a/710542412_99984157)by 晓晓 · Aug 10, 2023
