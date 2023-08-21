@@ -31,6 +31,9 @@
    - based on Stanford generative agents project
    - **Analysis:**
      - [斯坦福小镇二创，8个智能体生活交友，猫猫小镇AI Town人人可搭](https://baijiahao.baidu.com/s?id=1774365864057414257&wfr=spider&for=pc) by 新智元 · Aug 16, 2023
+9. [AgentSims](https://www.agentsims.com/) 
+   - [Github](https://github.com/py499372727/AgentSims) ![](https://img.shields.io/github/stars/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)
+   - ![](https://generation-sessions.s3.amazonaws.com/7fffe1e230aaf47ad7397c3a59f1a690/img/image-1.png)
 ## Business Product
 1. [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
 2. [SuperAGI](https://superagi.com/)
