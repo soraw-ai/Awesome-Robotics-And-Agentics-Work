@@ -21,8 +21,6 @@
    - [arXiv 2023.07.02](https://arxiv.org/pdf/2307.00660)
 9. [[arXiv 2023.05]](https://arxiv.org/abs/2305.13246) **Interactive Natural Language Processing** `Survey`
    - [arXiv 2023.05.22](https://arxiv.org/abs/2305.13246)
-10. [[arXiv 2023.08]](https://arxiv.org/abs/2308.08155) **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**
-   - [arXiv 2023.08.16](https://arxiv.org/abs/2308.08155)
 
 ## Traditional
 
