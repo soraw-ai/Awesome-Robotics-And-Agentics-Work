@@ -2,27 +2,30 @@
 
 ## LLM Based
 
-1. [[arXiv 2023.08]](https://arxiv.org/abs/2308.04026) **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
+1. [[arXiv 2023.08]](https://arxiv.org/abs/2308.11432) **A Survey on Large Language Model based Autonomous Agents** `Survey`
+      - [arXiv 2023.08.22](https://arxiv.org/abs/2308.11432)
+      - [Code](https://github.com/Paitesanshi/LLM-Agent-Survey)
+2. [[arXiv 2023.08]](https://arxiv.org/abs/2308.04026) **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
    - [arXiv 2023.08.08](https://arxiv.org/abs/2308.04026)
-2. [[arXiv 2023.08]](https://arxiv.org/pdf/2308.00352.pdf) **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework**
+3. [[arXiv 2023.08]](https://arxiv.org/pdf/2308.00352.pdf) **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework**
    - [arXiv (2023.08.07)](https://arxiv.org/pdf/2308.00352.pdf)
-3. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.13854.pdf) **WebArena: A Realistic Web Environment for Building Autonomous Agents**
+4. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.13854.pdf) **WebArena: A Realistic Web Environment for Building Autonomous Agents**
    - [arXiv (2023.07.25)](https://arxiv.org/pdf/2307.13854.pdf)
-4. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.05300) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
+5. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.05300) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
 
    - [arXiv 2023.07.11](https://arxiv.org/pdf/2307.05300)
    - [Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)
-5. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.00660) **Minimum Levels of Interpretability for Artificial Moral Agents**
+6. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.00660) **Minimum Levels of Interpretability for Artificial Moral Agents**
    - [arXiv 2023.07.02](https://arxiv.org/pdf/2307.00660)
-6. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration**
+7. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration**
    - [arXiv 2023.05.31](https://arxiv.org/pdf/2305.20076)
    - [Code](https://github.com/jlin816/dialop)
-7. [[arXiv 2023.05]](https://arxiv.org/pdf/2303.17580.pdf) **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**
+8. [[arXiv 2023.05]](https://arxiv.org/pdf/2303.17580.pdf) **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**
    - [arXiv 2023.05.25](https://arxiv.org/pdf/2303.17580.pdf)
-8. [[arXiv 2023.05]](https://arxiv.org/abs/2305.13246) **Interactive Natural Language Processing** `Survey`
+9. [[arXiv 2023.05]](https://arxiv.org/abs/2305.13246) **Interactive Natural Language Processing** `Survey`
    - [arXiv 2023.05.22](https://arxiv.org/abs/2305.13246)
-9. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
-   - [arXiv 2023.05.19](https://arxiv.org/pdf/2305.11598)
+10. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
+         - [arXiv 2023.05.19](https://arxiv.org/pdf/2305.11598)
 
 ## Traditional
 

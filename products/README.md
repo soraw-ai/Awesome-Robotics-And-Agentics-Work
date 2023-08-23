@@ -22,7 +22,9 @@
    - Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
 6. [Generative Agents](https://github.com/joonspk-research/generative_agents)
    - [Github](https://github.com/joonspk-research/generative_agents) ![](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)
-   - ![stanford_generative_agents](assets/stanford_generative_agents.png)
+   - <div align="center">
+   <img align="center" height="300" src="assets/stanford_generative_agents.png">
+   </div>
 7. [WebArena](https://webarena.dev/)
    - [Github](https://github.com/web-arena-x/webarena) ![](https://img.shields.io/github/stars/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)
 8. [AI Town](https://www.convex.dev/ai-town)
@@ -33,7 +35,22 @@
      - [斯坦福小镇二创，8个智能体生活交友，猫猫小镇AI Town人人可搭](https://baijiahao.baidu.com/s?id=1774365864057414257&wfr=spider&for=pc) by 新智元 · Aug 16, 2023
 9. [AgentSims](https://www.agentsims.com/) 
    - [Github](https://github.com/py499372727/AgentSims) ![](https://img.shields.io/github/stars/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)
-   - ![](https://generation-sessions.s3.amazonaws.com/7fffe1e230aaf47ad7397c3a59f1a690/img/image-1.png)
+   - <div align="center">
+   <img align="center" height="300" src="https://generation-sessions.s3.amazonaws.com/7fffe1e230aaf47ad7397c3a59f1a690/img/image-1.png">
+   </div>
+10. [Lagent](https://github.com/InternLM/lagent) 
+
+       - [Github](https://github.com/InternLM/lagent) ![](https://img.shields.io/github/stars/InternLM/lagent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/InternLM/lagent?style=round-square&logo=Github&logoColor=white)
+       - <div align="center">
+         <img align="center" height="300" src="https://user-images.githubusercontent.com/24351120/262059491-cefc4145-2ad8-4f80-b88b-97c05d1b9d3e.png">
+         </div>
+11. [GPT Researcher](https://app.tavily.com/)
+
+       - [Github](https://github.com/assafelovic/gpt-researcher) ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)
+       - https://github.com/assafelovic/gpt-researcher/assets/13554167/a00c89a6-a295-4dd0-b58d-098a31c40fda
+       - <div align="center">
+         <img align="center" height="300" src="https://camo.githubusercontent.com/dff812e5382241defc38354361f86394bc6f57811d9494d6e1f4f3fa6fbdc576/68747470733a2f2f636f7772697465722d696d616765732e73332e616d617a6f6e6177732e636f6d2f617263682e706e67">
+         </div>
 ## Business Product
 1. [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
 2. [SuperAGI](https://superagi.com/)

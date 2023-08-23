@@ -1,4 +1,7 @@
 # Autonomous AI Agents
+> Areas covered in this repo:
+> `Robotics`, `AI Agents`, `Autonomous Agents`, `Multi-agents`, `LLM`
+
 All about Autonomous AI Agents you need are here.
 
 Currently, there are two main directions, LLM-based Agents and RL-based Agents. This repo mainly focuses on LLM-based Agents.
@@ -16,7 +19,10 @@ Multi-agents = Agents + Environment + SOP + Auditing + Routing + Subscribtion + 
 1. AI Embedded mode: The original task flow remains unchanged, people perform it step by step, and at some point in the middle we stop doing it ourselves and hand it over to the AI.
 2. AI Copilot mode: Keeping the original task flow order, AI provides a shortcut to execute the entire task flow at once, and the whole process is transparent, so people can intervene at any step in between.
 3. AI Agent mode: People don't care how the task is executed, leave it all to AI.
-![Three Models of Human-AI Synergy](http://p1.itc.cn/images01/20230810/2ef929fbf16e43c68b0da53775dfd2d7.png)
+<div align="center">
+<img align="center" height="400" src="http://p1.itc.cn/images01/20230810/2ef929fbf16e43c68b0da53775dfd2d7.png">
+</div>
+
 
 ## Papers
 
@@ -24,15 +30,16 @@ For details please refer to [Papers List](papers)
 
 ### LLM Based
 
-1. [[arXiv 2023.08]](https://arxiv.org/pdf/2308.00352.pdf) **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework**
-2. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.13854.pdf) **WebArena: A Realistic Web Environment for Building Autonomous Agents**
-3. [[arXiv 2023.05]](https://arxiv.org/pdf/2303.17580.pdf) **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**
-4. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.05300) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
-5. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration** [[Code](https://github.com/jlin816/dialop)]
-6. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
-7. [[arXiv 2023.05]](https://arxiv.org/abs/2305.13246) **Interactive Natural Language Processing** `Survey`
-8. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.00660) **Minimum Levels of Interpretability for Artificial Moral Agents**
-9. [[arXiv 2023.08]](https://arxiv.org/abs/2308.04026) **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[Code](https://github.com/py499372727/AgentSims)]
+1. [[arXiv 2023.08]](https://arxiv.org/abs/2308.11432) **A Survey on Large Language Model based Autonomous Agents** `Survey` [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
+2. [[arXiv 2023.08]](https://arxiv.org/abs/2308.04026) **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[Code](https://github.com/py499372727/AgentSims)]
+3. [[arXiv 2023.08]](https://arxiv.org/pdf/2308.00352.pdf) **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework**
+4. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.13854.pdf) **WebArena: A Realistic Web Environment for Building Autonomous Agents**
+5. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.05300) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
+6. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.00660) **Minimum Levels of Interpretability for Artificial Moral Agents**
+7. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration** [[Code](https://github.com/jlin816/dialop)]
+8. [[arXiv 2023.05]](https://arxiv.org/pdf/2303.17580.pdf) **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**
+9. [[arXiv 2023.05]](https://arxiv.org/abs/2305.13246) **Interactive Natural Language Processing** `Survey`
+10. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
 
 ### Traditional
 
@@ -52,9 +59,11 @@ For details please refer to [Products List](products)
 6. `R&D` [WebArena](https://github.com/web-arena-x/webarena) ![](https://img.shields.io/github/stars/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)
 7. `R&D` [AI Town](https://github.com/a16z-infra/ai-town) ![](https://img.shields.io/github/stars/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white)
 8. `R&D` [AgentSims](https://github.com/py499372727/AgentSims) ![](https://img.shields.io/github/stars/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)
-9. `Business` [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
-10. `Business` [AgentGPT](https://github.com/reworkd/AgentGPT) ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
-11. `Business` [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
+9. `R&D` [Lagent](https://github.com/InternLM/lagent) ![](https://img.shields.io/github/stars/InternLM/lagent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/InternLM/lagent?style=round-square&logo=Github&logoColor=white)
+10. `R&D` [GPT Researcher](https://github.com/assafelovic/gpt-researcher) ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)
+11. `Business` [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
+12. `Business` [AgentGPT](https://github.com/reworkd/AgentGPT) ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
+13. `Business` [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
 
 ## Useful Blogs and Resources 
 
@@ -62,6 +71,9 @@ For details please refer to [Products List](products)
 2. [What is an AI agent?](https://zapier.com/blog/ai-agent/) By Miguel Rebelo · June 1, 2023
 3. [框架阅读：langchain精读](https://deepwisdom.feishu.cn/wiki/wikcnhYysy7aaewetJ2sUlZMbeh) by MetaGPT team · May 8, 2023
 4. [框架速度：SuperAGI](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team · Jun 5, 2023
+
+## Acknowledgement
+- [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) by Haoran Duan
 
 ## References
 1. [MetaGPT作者深度解析直播回放](https://www.bilibili.com/video/BV1Ru411V7XL)
