@@ -65,6 +65,10 @@ For details please refer to [Products List](products)
 12. `Business` [AgentGPT](https://github.com/reworkd/AgentGPT) ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
 13. `Business` [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
 
+## Expert Roles LLM
+### For Coding
+1. `Based LLaMa 2` [Code Llama](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/) By Meta AI · August 24, 2023
+
 ## Useful Blogs and Resources 
 
 1. [AI领域的agent是什么意思？](https://www.zhihu.com/question/51195225/answer/3097467077) Answered by AI的潜意识 · July 3, 2023
