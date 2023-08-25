@@ -1,4 +1,4 @@
-# Autonomous AI Agents
+# Awesome-Robotics-and-Autonomous-Agents [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Areas covered in this repo:
 > `Robotics`, `AI Agents`, `Autonomous Agents`, `Multi-agents`, `LLM`
 
@@ -78,6 +78,19 @@ For details please refer to [Products List](products)
 
 ## Acknowledgement
 - [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) by Haoran Duan
+
+----
+## Citation
+If you find this repository useful, please consider citing this list:
+```
+@misc{rui2023roboticsautonomousagentslist,
+    title = {Awesome-Robotics-and-Autonomous-Agents},
+    author = {Rui Sun},
+    journal = {GitHub repository},
+    url = {https://github.com/ray-ruisun/Awesome-Robotics-and-Autonomous-Agents},
+    year = {2023},
+}
+```
 
 ## References
 1. [MetaGPT作者深度解析直播回放](https://www.bilibili.com/video/BV1Ru411V7XL)
