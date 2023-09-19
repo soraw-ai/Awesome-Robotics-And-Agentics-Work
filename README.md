@@ -45,9 +45,21 @@ For details please refer to [Papers List](papers)
   *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen* <br>
   arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.11432)] [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 
-2. [[arXiv 2023.08]](https://arxiv.org/abs/2308.04026) **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** [[Code](https://github.com/py499372727/AgentSims)]
-3. [[arXiv 2023.08]](https://arxiv.org/pdf/2308.00352.pdf) **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework**
-4. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.13854.pdf) **WebArena: A Realistic Web Environment for Building Autonomous Agents**
+
+- **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** <br>
+  ** <br>
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.04026)] [[Code](https://github.com/py499372727/AgentSims)]
+  
+- **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework** <br>
+  ** <br>
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.00352)] [[Code](https://github.com/geekan/MetaGPT)]
+  
+
+- **WebArena: A Realistic Web Environment for Building Autonomous Agents** <br>
+  ** <br>
+  arXiv, 2023.07. [[Paper](https://arxiv.org/abs/2307.13854)] [[Code](https://github.com/web-arena-x/webarena)]
+
+
 5. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.05300) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
 6. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.00660) **Minimum Levels of Interpretability for Artificial Moral Agents**
 7. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration** [[Code](https://github.com/jlin816/dialop)]
@@ -60,6 +72,20 @@ For details please refer to [Papers List](papers)
 - **Communicative Agents for Software Development** <br>
   *Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun* <br>
   arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.07924)] 
+- **Cognitive Architectures for Language Agents** <br>
+  *Theodore Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths* <br>
+  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.02427)] 
+- **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents** <br>
+  *Weize Chen and Yusheng Su and Jingwei Zuo and Cheng Yang and Chenfei Yuan and Chen Qian and Chi-Min Chan and Yujia Qin and Yaxi Lu and Ruobing Xie and Zhiyuan Liu and Maosong Sun and Jie Zhou* <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.10848)] 
+- **Agents: An Open-source Framework for Autonomous Language Agents** <br>
+  *Wangchunshu Zhou, Yuchen Eleanor Jiang, Long Li, Jialong Wu, Tiannan Wang, Shi Qiu, Jintian Zhang, Jing Chen, Ruipu Wu, Shuai Wang, Shiding Zhu, Jiyu Chen, Wentao Zhang, Ningyu Zhang, Huajun Chen, Peng Cui, Mrinmaya Sachan* <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07870)] 
+- **The Rise and Potential of Large Language Model Based Agents: A Survey** <br>
+  *Zhiheng Xi and Wenxiang Chen and Xin Guo and Wei He and Yiwen Ding and Boyang Hong and Ming Zhang and Junzhe Wang and Senjie Jin and Enyu Zhou and Rui Zheng and Xiaoran Fan and Xiao Wang and Limao Xiong and Yuhao Zhou and Weiran Wang and Changhao Jiang and Yicheng Zou and Xiangyang Liu and Zhangyue Yin and Shihan Dou and Rongxiang Weng and Wensen Cheng and Qi Zhang and Wenjuan Qin and Yongyan Zheng and Xipeng Qiu and Xuanjing Huang and Tao Gui* 复旦大学NLP <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07864)] [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
+
+
 ### <a name="traditional"></a> Traditional
 
 1. [[IJCAI’22]](https://www.ijcai.org/proceedings/2022/0344.pdf) **Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts**
@@ -94,6 +120,15 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
 10. `R&D` [GPT Researcher](https://github.com/assafelovic/gpt-researcher) ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)
 - `R&D` **ChatDev** <br>
 [[Code](https://github.com/OpenBMB/ChatDev)]![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)
+
+- `R&D` **AgentVerse** <br>
+[[Code](https://github.com/OpenBMB/AgentVerse)]![](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white)
+
+- `R&D Code Not Released` **CoALA** <br>
+[[Code](https://github.com/ysymyth/awesome-language-agents)]![](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)
+
+- `R&D` **AIWaves Agents** <br>
+[[Code](https://github.com/aiwaves-cn/agents)]![](https://img.shields.io/github/stars/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)
 11. `Business` [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
 12. `Business` [AgentGPT](https://github.com/reworkd/AgentGPT) ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
 13. `Business` [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
@@ -110,6 +145,9 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
 3. [框架阅读：langchain精读](https://deepwisdom.feishu.cn/wiki/wikcnhYysy7aaewetJ2sUlZMbeh) by MetaGPT team · May 8, 2023
 4. [框架速度：SuperAGI](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team · Jun 5, 2023
 5. [AI革新之路：14篇AI Agents论文，探讨人工智能未来](https://mp.weixin.qq.com/s/apSIgDlU6szfEuKSvvDXGw) by AMiner科技 · Sep 2, 2023
+6. [AI Agent+to B，下一个入口级平台机会｜甲子光年](https://mp.weixin.qq.com/s/Lwr8CnJ0-Ky2md1j5TfW7w) by 武静静 · Sep 15, 2023
+7. `Video` [Harrison Chase - Agents Masterclass from LangChain Founder (LLM Bootcamp)](https://www.youtube.com/watch?v=DWUdGhRrv2c) by The Full Stack · May 25, 2023  - Harrison Chase （LangChain CEO）25分钟关于GPT Agents的tutorial 
+
 
 ## Acknowledgement
 - [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) by Haoran Duan

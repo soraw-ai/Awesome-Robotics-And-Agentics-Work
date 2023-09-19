@@ -46,22 +46,45 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
    <img align="center" height="300" src="https://generation-sessions.s3.amazonaws.com/7fffe1e230aaf47ad7397c3a59f1a690/img/image-1.png">
    </div>
 10. [Lagent](https://github.com/InternLM/lagent) 
-
        - [Github](https://github.com/InternLM/lagent) ![](https://img.shields.io/github/stars/InternLM/lagent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/InternLM/lagent?style=round-square&logo=Github&logoColor=white)
        - <div align="center">
          <img align="center" height="300" src="https://user-images.githubusercontent.com/24351120/262059491-cefc4145-2ad8-4f80-b88b-97c05d1b9d3e.png">
          </div>
 11. [GPT Researcher](https://app.tavily.com/)
-
        - [Github](https://github.com/assafelovic/gpt-researcher) ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)
        - https://github.com/assafelovic/gpt-researcher/assets/13554167/a00c89a6-a295-4dd0-b58d-098a31c40fda
        - <div align="center">
          <img align="center" height="300" src="https://camo.githubusercontent.com/dff812e5382241defc38354361f86394bc6f57811d9494d6e1f4f3fa6fbdc576/68747470733a2f2f636f7772697465722d696d616765732e73332e616d617a6f6e6177732e636f6d2f617263682e706e67">
          </div>
-11. [ChatDev](https://github.com/OpenBMB/ChatDev)
-
+12. [ChatDev](https://github.com/OpenBMB/ChatDev)
        - [Github](https://github.com/OpenBMB/ChatDev) ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)
        - [Paper](https://arxiv.org/abs/2307.07924)
+
+13. [CoALA](https://github.com/ysymyth/awesome-language-agents) `Code Not Released`
+       - [Github](https://github.com/ysymyth/awesome-language-agents) ![](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)
+	   - [Paper](https://arxiv.org/abs/2309.02427)
+       - 提出一种基于认知架构的语言智能体的概念框架，将大型语言模型与生产系统进行类比，系统化地组织了LLM的推理、基础、学习和决策等方法。
+    		 - 
+         <div align="center">
+         <img align="center" height="300" src="https://github.com/ysymyth/awesome-language-agents/blob/main/CoALA.png">
+         </div>
+
+14. [AgentVerse](https://github.com/OpenBMB/AgentVerse)
+       - [Github](https://github.com/OpenBMB/AgentVerse) ![](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white)
+       - [Paper](https://arxiv.org/abs/2308.10848)
+				- 
+         <div align="center">
+         <img align="center" height="300" src="https://user-images.githubusercontent.com/11704492/264917097-6db1c907-b7fc-42f9-946c-89853a28f386.png">
+         </div>
+
+15. [AIWaves Agents](http://www.aiwaves-agents.com/)
+       - [Github](https://github.com/aiwaves-cn/agents) ![](https://img.shields.io/github/stars/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)
+       - [Paper](https://arxiv.org/abs/2309.07870)
+				- 
+         <div align="center">
+         <img align="center" height="300" src="https://github.com/aiwaves-cn/agents/raw/master/assets/agents-cover.png">
+         </div>
+
 
 
 ## Business Product
@@ -72,7 +95,8 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
      - [框架速度：SuperAGI](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team · Jun 5, 2023
    - [Demo Video](https://github.com/Akki-jain/test/assets/92881074/bb18407a-b6b2-4a9f-9419-ec73ffacd2f8)
 3. [Council](https://www.chainml.net/council)
+   
    - [Github](https://github.com/chain-ml/council) ![](https://img.shields.io/github/stars/chain-ml/council?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/chain-ml/council?style=round-square&logo=Github&logoColor=white)
-   - <div align="center">
-   <img align="center" height="300" src="https://github.com/chain-ml/council/blob/main/docs/source/introduction/engine_flow.png">
-   </div>
+	- <div align="center">
+   		<img align="center" height="300" src="https://github.com/chain-ml/council/blob/main/docs/source/introduction/engine_flow.png">
+   	</div>

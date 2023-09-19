@@ -30,6 +30,32 @@
 10. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
          - [arXiv 2023.05.19](https://arxiv.org/pdf/2305.11598)
 
+
+
+- **ExpeL: LLM Agents Are Experiential Learners** <br>
+  *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang* <br>
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.10144)] 
+- **Communicative Agents for Software Development** <br>
+  *Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun* <br>
+  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.07924)] 
+- **Cognitive Architectures for Language Agents** <br>
+  *Theodore Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths* <br>
+  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.02427)] 
+- **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents** <br>
+  *Weize Chen and Yusheng Su and Jingwei Zuo and Cheng Yang and Chenfei Yuan and Chen Qian and Chi-Min Chan and Yujia Qin and Yaxi Lu and Ruobing Xie and Zhiyuan Liu and Maosong Sun and Jie Zhou* <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.10848)] 
+- **Agents: An Open-source Framework for Autonomous Language Agents** <br>
+  *Wangchunshu Zhou, Yuchen Eleanor Jiang, Long Li, Jialong Wu, Tiannan Wang, Shi Qiu, Jintian Zhang, Jing Chen, Ruipu Wu, Shuai Wang, Shiding Zhu, Jiyu Chen, Wentao Zhang, Ningyu Zhang, Huajun Chen, Peng Cui, Mrinmaya Sachan* <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07870)] 
+- **The Rise and Potential of Large Language Model Based Agents: A Survey** `Survey` <br>
+  *Zhiheng Xi and Wenxiang Chen and Xin Guo and Wei He and Yiwen Ding and Boyang Hong and Ming Zhang and Junzhe Wang and Senjie Jin and Enyu Zhou and Rui Zheng and Xiaoran Fan and Xiao Wang and Limao Xiong and Yuhao Zhou and Weiran Wang and Changhao Jiang and Yicheng Zou and Xiangyang Liu and Zhangyue Yin and Shihan Dou and Rongxiang Weng and Wensen Cheng and Qi Zhang and Wenjuan Qin and Yongyan Zheng and Xipeng Qiu and Xuanjing Huang and Tao Gui* 复旦大学NLP <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07864)] [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
+  - **Blogs**
+		- [复旦NLP团队发布80页大模型Agent综述，一文纵览AI智能体的现状与未来](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650890550&idx=1&sn=b92ded779dfc401aaacf00a68e32e916&chksm=84e4a548b3932c5eba6fd1f3c4c575380465aae1a89b584eac16a1ed3f1933fcf0f24c523bd5&mpshare=1&scene=1&srcid=0917iPG4LSHmAk96zgecMaXG&sharer_shareinfo=f49fed4610d5b4bb4c1fcd430922e3ad&sharer_shareinfo_first=f49fed4610d5b4bb4c1fcd430922e3ad#rd) By 机器之心 · Sep 17, 2023
+		- [复旦NLP实验室和米哈游全面解读AI Agents：一文读懂5万字论文](https://mp.weixin.qq.com/s/5pfeHzUPt5TQB6oCpXIpmQ)By 专注商业创新的 · Sep 18, 2023
+
+
+
 ## Traditional
 
 1. [[IJCAI’22]](https://www.ijcai.org/proceedings/2022/0344.pdf) **Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts**
