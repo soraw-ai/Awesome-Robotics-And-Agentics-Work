@@ -5,6 +5,9 @@
 1. [[arXiv 2023.08]](https://arxiv.org/abs/2308.11432) **A Survey on Large Language Model based Autonomous Agents** `Survey`
       - [arXiv 2023.08.22](https://arxiv.org/abs/2308.11432)
       - [Code](https://github.com/Paitesanshi/LLM-Agent-Survey)
+      - **Blogs**
+       - [AI自主智能体大盘点，构建、应用、评估全覆盖，人大高瓴文继荣等32页综述](https://www.sohu.com/a/715593505_104036) By 杜伟、陈萍 · Aug 28, 2023
+       - [32个AI Agent的综合分析，助你全面了解智能体与大语言模型结合的最新进展](https://mp.weixin.qq.com/s/X5l-xT6TdNbxu0dxxQJfwQ)By AI协同创新智库 · Aug 25, 2023
 2. [[arXiv 2023.08]](https://arxiv.org/abs/2308.04026) **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation**
    - [arXiv 2023.08.08](https://arxiv.org/abs/2308.04026)
 3. [[arXiv 2023.08]](https://arxiv.org/pdf/2308.00352.pdf) **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework**

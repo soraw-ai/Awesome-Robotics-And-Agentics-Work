@@ -1,4 +1,11 @@
 # Products
+
+AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-wild)
+
+<div align="center">
+<img align="center" height="800" src="https://framerusercontent.com/images/KbZcWUWytUkP0qPk1yF2eeM6E.png">
+</div>
+
 ## R&D
 1. [BabyAGI](https://github.com/yoheinakajima/babyagi)
    - [Github](https://github.com/yoheinakajima/babyagi) ![](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)
@@ -51,6 +58,12 @@
        - <div align="center">
          <img align="center" height="300" src="https://camo.githubusercontent.com/dff812e5382241defc38354361f86394bc6f57811d9494d6e1f4f3fa6fbdc576/68747470733a2f2f636f7772697465722d696d616765732e73332e616d617a6f6e6177732e636f6d2f617263682e706e67">
          </div>
+11. [ChatDev](https://github.com/OpenBMB/ChatDev)
+
+       - [Github](https://github.com/OpenBMB/ChatDev) ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)
+       - [Paper](https://arxiv.org/abs/2307.07924)
+
+
 ## Business Product
 1. [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
 2. [SuperAGI](https://superagi.com/)
@@ -58,3 +71,8 @@
    - **Analysis:**
      - [框架速度：SuperAGI](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team · Jun 5, 2023
    - [Demo Video](https://github.com/Akki-jain/test/assets/92881074/bb18407a-b6b2-4a9f-9419-ec73ffacd2f8)
+3. [Council](https://www.chainml.net/council)
+   - [Github](https://github.com/chain-ml/council) ![](https://img.shields.io/github/stars/chain-ml/council?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/chain-ml/council?style=round-square&logo=Github&logoColor=white)
+   - <div align="center">
+   <img align="center" height="300" src="https://github.com/chain-ml/council/blob/main/docs/source/introduction/engine_flow.png">
+   </div>
