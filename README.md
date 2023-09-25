@@ -12,8 +12,9 @@ Currently, there are two main directions, LLM-based Agents and RL-based Agents. 
 
 * [About Autonomous Agents](#about)
 * [Papers](#papers)
-	* [LLM Based](#llm_based)
-	* [Traditional](#traditional)
+	* [LLM-Based Autonomous Agents](#llm_based_auto_agents)
+	* [Traditional Autonomous Agents](#traditional_auto_agents)
+	* [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
 	* [Consciousness](#consciousness)
 * [Product](#product)
 * [Expert Roles LLM](#expert_roles_llm)
@@ -35,37 +36,42 @@ Multi-agents = Agents + Environment + SOP + Auditing + Routing + Subscribtion + 
 </div>
 
 
-## <a name="papers"></a> Papers
+## <a name="papers"></a> Autonomous Agents Papers
 
 For details please refer to [Papers List](papers)
 
-### <a name="llm_based"></a> LLM Based
+### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
 
 - **A Survey on Large Language Model based Autonomous Agents** `Survey`<br>
   *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen* <br>
   arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.11432)] [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
-
-
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** <br>
-  ** <br>
+  *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.04026)] [[Code](https://github.com/py499372727/AgentSims)]
-  
 - **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework** <br>
-  ** <br>
+  *Sirui Hong, Xiawu Zheng, Jonathan Chen, Yuheng Cheng, Jinlin Wang, Ceyao Zhang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.00352)] [[Code](https://github.com/geekan/MetaGPT)]
-  
-
 - **WebArena: A Realistic Web Environment for Building Autonomous Agents** <br>
-  ** <br>
+  *Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig* <br>
   arXiv, 2023.07. [[Paper](https://arxiv.org/abs/2307.13854)] [[Code](https://github.com/web-arena-x/webarena)]
-
-
-5. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.05300) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
-6. [[arXiv 2023.07]](https://arxiv.org/pdf/2307.00660) **Minimum Levels of Interpretability for Artificial Moral Agents**
-7. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.20076) **Decision-Oriented Dialogue for Human-AI Collaboration** [[Code](https://github.com/jlin816/dialop)]
-8. [[arXiv 2023.05]](https://arxiv.org/pdf/2303.17580.pdf) **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**
-9. [[arXiv 2023.05]](https://arxiv.org/abs/2305.13246) **Interactive Natural Language Processing** `Survey`
-10. [[arXiv 2023.05]](https://arxiv.org/pdf/2305.11598) **Introspective Tips: Large Language Model for In-Context Decision Making**
+- **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** <br>
+  *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji* <br>
+  arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.05300)] [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
+- **Minimum Levels of Interpretability for Artificial Moral Agents** <br>
+  *Avish Vijayaraghavan, Cosmin Badea* <br>
+  arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.00660)] 
+- **Decision-Oriented Dialogue for Human-AI Collaboration** <br>
+  *Jessy Lin, Nicholas Tomlin, Jacob Andreas, Jason Eisner* <br>
+  arXiv, 2023.05. [[Paper](https://arxiv.org/pdf/2305.20076)] [[Code](https://github.com/jlin816/dialop)]
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face** <br>
+  *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang* <br>
+  arXiv, 2023.05. [[Paper](https://arxiv.org/abs/2303.17580)]
+- **Interactive Natural Language Processing** <br>
+  *Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu* <br>
+  arXiv, 2023.05. [[Paper](https://arxiv.org/abs/2305.13246)]
+- **Introspective Tips: Large Language Model for In-Context Decision Making** <br>
+  *Liting Chen, Lu Wang, Hang Dong, Yali Du, Jie Yan, Fangkai Yang, Shuang Li, Pu Zhao, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang* <br>
+  arXiv, 2023.05. [[Paper](https://arxiv.org/pdf/2305.11598)]
 - **ExpeL: LLM Agents Are Experiential Learners** <br>
   *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.10144)] 
@@ -86,13 +92,18 @@ For details please refer to [Papers List](papers)
   arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07864)] [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
 
-### <a name="traditional"></a> Traditional
+### <a name="traditional_auto_agents"></a> Traditional Autonomous Agents
 
 1. [[IJCAI’22]](https://www.ijcai.org/proceedings/2022/0344.pdf) **Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts**
 2. [[EMNLP’21]](https://aclanthology.org/2021.emnlp-main.85.pdf) **MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks**
 3. [[arXiv 2017.03]](https://arxiv.org/pdf/1704.00717) **It Takes Two to Tango: Towards Theory of AI's Mind**
 4. [[arXiv 2021.03]](https://arxiv.org/pdf/2103.09990) **Human-AI Symbiosis: A Survey of Current Approaches**
 5. [[arXiv 2023.08]](https://arxiv.org/abs/2308.08155) **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework**
+
+### <a name="llm_based_swarm_intelligence"></a> LLM-based Swarm Intelligence 
+- **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf** <br>
+  *Yuzhuang Xu, Shuo Wang, Peng Li, Fuwen Luo, Xiaolong Wang, Weidong Liu, Yang Liu* <br>
+  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.04658)] 
 
 ### <a name="consciousness"></a> Consciousness
 - **It Takes Two to Tango: Towards Theory of AI's Mind** `Survey`<br>

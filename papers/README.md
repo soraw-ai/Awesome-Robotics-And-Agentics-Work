@@ -1,6 +1,6 @@
 # Papers
 
-## LLM Based
+## LLM-Based Autonomous Agents
 
 1. [[arXiv 2023.08]](https://arxiv.org/abs/2308.11432) **A Survey on Large Language Model based Autonomous Agents** `Survey`
       - [arXiv 2023.08.22](https://arxiv.org/abs/2308.11432)
@@ -56,7 +56,7 @@
 
 
 
-## Traditional
+## Traditional Autonomous Agents
 
 1. [[IJCAI’22]](https://www.ijcai.org/proceedings/2022/0344.pdf) **Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts**
    - [arXiv (2022.06.16)](https://arxiv.org/abs/2206.07948) ,  [IJCAI’22](https://www.ijcai.org/proceedings/2022/0344.pdf)
@@ -66,3 +66,11 @@
    - [arXiv 2017.03.03](https://arxiv.org/pdf/1704.00717)
 4. [[arXiv 2021.03]](https://arxiv.org/pdf/2103.09990) **Human-AI Symbiosis: A Survey of Current Approaches**
    - [arXiv 2021.03.18](https://arxiv.org/pdf/2103.09990)
+
+
+## LLM-based Swarm Intelligence 
+- **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf** <br>
+  *Yuzhuang Xu, Shuo Wang, Peng Li, Fuwen Luo, Xiaolong Wang, Weidong Liu, Yang Liu* <br>
+  - [[arXiv, 2023.09.09](https://arxiv.org/abs/2309.04658)]
+  - **Blogs**
+    - [清华大学团队让7个大模型玩起狼人杀并发现新的涌现策略行为](https://mp.weixin.qq.com/s/viCzmBJMFmzRh1B3r92d4Q) By 杜伟、陈萍 · Sep 25, 2023
