@@ -100,3 +100,8 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
 	- <div align="center">
    		<img align="center" height="300" src="https://github.com/chain-ml/council/blob/main/docs/source/introduction/engine_flow.png">
    	</div>
+
+- **AutoGen** <br>
+  Team: Microsoft <br>
+  [[Site](https://microsoft.github.io/autogen/)]<br>
+  [[Code](https://github.com/microsoft/autogen)]![](https://img.shields.io/github/stars/microsoft/autogen?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/microsoft/autogen?style=round-square&logo=Github&logoColor=white)

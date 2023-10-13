@@ -31,7 +31,15 @@
          - [arXiv 2023.05.19](https://arxiv.org/pdf/2305.11598)
 
 
-
+- **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** <br>
+  *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.04406)] <br>
+  [[Code](https://github.com/andyz245/LanguageAgentTreeSearch)] ![](https://img.shields.io/github/stars/andyz245/LanguageAgentTreeSearch?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/andyz245/LanguageAgentTreeSearch?style=round-square&logo=Github&logoColor=white)
+- **SmartPlay : A Benchmark for LLMs as Intelligent Agents** <br>
+  *Yue Wu, Xuan Tang, Tom M. Mitchell, Yuanzhi Li* <br>
+  Team: Microsoft <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.01557)] <br>
+  [[Code](https://github.com/microsoft/SmartPlay)] ![](https://img.shields.io/github/stars/microsoft/SmartPlay?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/microsoft/SmartPlay?style=round-square&logo=Github&logoColor=white)
 - **ExpeL: LLM Agents Are Experiential Learners** <br>
   *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.10144)] 

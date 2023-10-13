@@ -6,8 +6,6 @@ All about Autonomous AI Agents you need are here.
 
 Currently, there are two main directions, LLM-based Agents and RL-based Agents. This repo mainly focuses on LLM-based Agents.
 
-**For more details please refer to:** [Ray's Notion Page](https://ruisun.notion.site/AI-Agents-02dfa18bd0ca448ea11e585f8b4bb40b?pvs=4)
-
 ## Table of Content
 
 * [About Autonomous Agents](#about)
@@ -41,10 +39,16 @@ Multi-agents = Agents + Environment + SOP + Auditing + Routing + Subscribtion + 
 For details please refer to [Papers List](papers)
 
 ### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
-
+- **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** <br>
+  *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.04406)] [[Code](https://github.com/andyz245/LanguageAgentTreeSearch)]
+- **SmartPlay : A Benchmark for LLMs as Intelligent Agents** <br>
+  *Yue Wu, Xuan Tang, Tom M. Mitchell, Yuanzhi Li* <br>
+  Team: Microsoft <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.01557)] [[Code](https://github.com/microsoft/SmartPlay)]
 - **A Survey on Large Language Model based Autonomous Agents** `Survey`<br>
   *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen* <br>
-  arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.11432)] [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.11432)] [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** <br>
   *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.04026)] [[Code](https://github.com/py499372727/AgentSims)]
@@ -119,45 +123,60 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
 </div>
 
 - `R&D` **BabyAG** <br>
-[[Code](https://github.com/yoheinakajima/babyagi)]![](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)
-2. `R&D` [Langchain](https://github.com/hwchase17/langchain) ![](https://img.shields.io/github/stars/hwchase17/langchain?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/hwchase17/langchain?style=round-square&logo=Github&logoColor=white)
-3. `R&D` [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ![](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)
-4. `R&D` [MetaGPT](https://github.com/geekan/MetaGPT) ![](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)
-5. `R&D` [Generative Agents](https://github.com/joonspk-research/generative_agents) ![](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)
-6. `R&D` [WebArena](https://github.com/web-arena-x/webarena) ![](https://img.shields.io/github/stars/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)
-7. `R&D` [AI Town](https://github.com/a16z-infra/ai-town) ![](https://img.shields.io/github/stars/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white)
-8. `R&D` [AgentSims](https://github.com/py499372727/AgentSims) ![](https://img.shields.io/github/stars/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)
-9. `R&D` [Lagent](https://github.com/InternLM/lagent) ![](https://img.shields.io/github/stars/InternLM/lagent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/InternLM/lagent?style=round-square&logo=Github&logoColor=white)
-10. `R&D` [GPT Researcher](https://github.com/assafelovic/gpt-researcher) ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)
+  [[Code](https://github.com/yoheinakajima/babyagi)]![](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)
+- `R&D` **Langchain** <br>
+  [[Code](https://github.com/hwchase17/langchain)] ![](https://img.shields.io/github/stars/hwchase17/langchain?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/hwchase17/langchain?style=round-square&logo=Github&logoColor=white)
+- `R&D` **Auto-GPT**
+  [[Code](https://github.com/Significant-Gravitas/Auto-GPT)] ![](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)
+- `R&D`**MetaGPT**
+  [[Code](https://github.com/geekan/MetaGPT)] ![](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)
+- `R&D` **Generative Agents**
+  [[Code](https://github.com/joonspk-research/generative_agents)] ![](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)
+- `R&D`**WebArena** 
+  [[Code](https://github.com/web-arena-x/webarena)] ![](https://img.shields.io/github/stars/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)
+- `R&D` **AI Town**
+  [[Code](https://github.com/a16z-infra/ai-town)] ![](https://img.shields.io/github/stars/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white)
+- `R&D` **AgentSims**
+  [[Code](https://github.com/py499372727/AgentSims)] ![](https://img.shields.io/github/stars/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)
+- `R&D` **Lagent**
+  [[Code](https://github.com/InternLM/lagent)] ![](https://img.shields.io/github/stars/InternLM/lagent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/InternLM/lagent?style=round-square&logo=Github&logoColor=white)
+- `R&D` **GPT Researcher**
+  [[Code](https://github.com/assafelovic/gpt-researcher)] ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)
 - `R&D` **ChatDev** <br>
-[[Code](https://github.com/OpenBMB/ChatDev)]![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)
-
+  [[Code](https://github.com/OpenBMB/ChatDev)]![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)
 - `R&D` **AgentVerse** <br>
-[[Code](https://github.com/OpenBMB/AgentVerse)]![](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white)
-
-- `R&D Code Not Released` **CoALA** <br>
-[[Code](https://github.com/ysymyth/awesome-language-agents)]![](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)
-
+  [[Code](https://github.com/OpenBMB/AgentVerse)]![](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white)
+- `R&D` **CoALA** `Code Not Released`<br>
+  [[Code](https://github.com/ysymyth/awesome-language-agents)]![](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)
 - `R&D` **AIWaves Agents** <br>
-[[Code](https://github.com/aiwaves-cn/agents)]![](https://img.shields.io/github/stars/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)
-11. `Business` [AI Agent](https://aiagent.app/) is a flexible app that lets user create their own agents, by setting a name with an objective.
-12. `Business` [AgentGPT](https://github.com/reworkd/AgentGPT) ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
-13. `Business` [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
+  [[Code](https://github.com/aiwaves-cn/agents)]![](https://img.shields.io/github/stars/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)
+- `Business` **AI Agent**
+  [[Site](https://aiagent.app/)]
+  AI Agent is a flexible app that lets user create their own agents, by setting a name with an objective.
+- `Business` **AgentGPT**
+  [[Code](https://github.com/reworkd/AgentGPT)] ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) 
+  Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
+- `Business`**SuperAGI**
+  [[Code](https://github.com/TransformerOptimus/SuperAGI)] ![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
 - `Business` **Council** <br>
-[[Code](https://github.com/chain-ml/council)]![](https://img.shields.io/github/stars/chain-ml/council?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/chain-ml/council?style=round-square&logo=Github&logoColor=white)
+  [[Code](https://github.com/chain-ml/council)]![](https://img.shields.io/github/stars/chain-ml/council?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/chain-ml/council?style=round-square&logo=Github&logoColor=white)
+- `Business` **AutoGen** <br>
+  Team: Microsoft <br>
+  [[Site](https://microsoft.github.io/autogen/)]<br>
+  [[Code](https://github.com/microsoft/autogen)]![](https://img.shields.io/github/stars/microsoft/autogen?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/microsoft/autogen?style=round-square&logo=Github&logoColor=white)
 ## <a name="expert_roles_llm"></a> Expert Roles LLM
 ### For Coding
 1. `Based LLaMa 2` [Code Llama](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/) By Meta AI · August 24, 2023
 
 ## <a name="blogs_and_resources"></a> Useful Blogs and Resources 
 
-1. [AI领域的agent是什么意思？](https://www.zhihu.com/question/51195225/answer/3097467077) Answered by AI的潜意识 · July 3, 2023
-2. [What is an AI agent?](https://zapier.com/blog/ai-agent/) By Miguel Rebelo · June 1, 2023
-3. [框架阅读：langchain精读](https://deepwisdom.feishu.cn/wiki/wikcnhYysy7aaewetJ2sUlZMbeh) by MetaGPT team · May 8, 2023
-4. [框架速度：SuperAGI](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team · Jun 5, 2023
-5. [AI革新之路：14篇AI Agents论文，探讨人工智能未来](https://mp.weixin.qq.com/s/apSIgDlU6szfEuKSvvDXGw) by AMiner科技 · Sep 2, 2023
-6. [AI Agent+to B，下一个入口级平台机会｜甲子光年](https://mp.weixin.qq.com/s/Lwr8CnJ0-Ky2md1j5TfW7w) by 武静静 · Sep 15, 2023
-7. `Video` [Harrison Chase - Agents Masterclass from LangChain Founder (LLM Bootcamp)](https://www.youtube.com/watch?v=DWUdGhRrv2c) by The Full Stack · May 25, 2023  - Harrison Chase （LangChain CEO）25分钟关于GPT Agents的tutorial 
+- [AI领域的agent是什么意思？](https://www.zhihu.com/question/51195225/answer/3097467077) Answered by AI的潜意识 · July 3, 2023
+- [What is an AI agent?](https://zapier.com/blog/ai-agent/) By Miguel Rebelo · June 1, 2023
+- [框架阅读：langchain精读](https://deepwisdom.feishu.cn/wiki/wikcnhYysy7aaewetJ2sUlZMbeh) by MetaGPT team · May 8, 2023
+- [框架速度：SuperAGI](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team · Jun 5, 2023
+- [AI革新之路：14篇AI Agents论文，探讨人工智能未来](https://mp.weixin.qq.com/s/apSIgDlU6szfEuKSvvDXGw) by AMiner科技 · Sep 2, 2023
+- [AI Agent+to B，下一个入口级平台机会｜甲子光年](https://mp.weixin.qq.com/s/Lwr8CnJ0-Ky2md1j5TfW7w) by 武静静 · Sep 15, 2023
+- `Video` [Harrison Chase - Agents Masterclass from LangChain Founder (LLM Bootcamp)](https://www.youtube.com/watch?v=DWUdGhRrv2c) by The Full Stack · May 25, 2023  - Harrison Chase （LangChain CEO）25分钟关于GPT Agents的tutorial 
 
 
 ## Acknowledgement
