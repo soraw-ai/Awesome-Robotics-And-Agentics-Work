@@ -9,13 +9,15 @@ Currently, there are two main directions, LLM-based Agents and RL-based Agents. 
 ## Table of Content
 
 * [About Autonomous Agents](#about)
-* [Papers](#papers)
+* [Autonomous Agents Papers](#autonomous_agents_papers)
 	* [LLM-Based Autonomous Agents](#llm_based_auto_agents)
 	* [Traditional Autonomous Agents](#traditional_auto_agents)
 	* [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
 	* [Consciousness](#consciousness)
+* [Robotics Papers](#robotics_papers)
 * [Product](#product)
 * [Expert Roles LLM](#expert_roles_llm)
+* [Tools](#tools)
 * [Useful Blogs and Resources ](#blogs_and_resources)
 
 ## <a name="about"></a> About Autonomous Agents
@@ -34,11 +36,18 @@ Multi-agents = Agents + Environment + SOP + Auditing + Routing + Subscribtion + 
 </div>
 
 
-## <a name="papers"></a> Autonomous Agents Papers
+## <a name="autonomous_agents_papers"></a> Autonomous Agents Papers
 
 For details please refer to [Papers List](papers)
 
 ### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
+- **AgentTuning: Enabling Generalized Agent Abilities for LLMs** <br>
+  *Aohan Zeng, Mingdao Liu, Rui Lu, Bowen Wang, Xiao Liu, Yuxiao Dong, Jie Tang* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12823)] [[Code](https://github.com/THUDM/AgentTuning)]
+- **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** <br>
+  *Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, Wei Ye, Shikun Zhang, Jiang Bian* <br>
+  Team: Microsoft <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.11954)] [[Code](https://github.com/microsoft/muzic)]
 - **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** <br>
   *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.04406)] [[Code](https://github.com/andyz245/LanguageAgentTreeSearch)]
@@ -92,7 +101,8 @@ For details please refer to [Papers List](papers)
   *Wangchunshu Zhou, Yuchen Eleanor Jiang, Long Li, Jialong Wu, Tiannan Wang, Shi Qiu, Jintian Zhang, Jing Chen, Ruipu Wu, Shuai Wang, Shiding Zhu, Jiyu Chen, Wentao Zhang, Ningyu Zhang, Huajun Chen, Peng Cui, Mrinmaya Sachan* <br>
   arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07870)] 
 - **The Rise and Potential of Large Language Model Based Agents: A Survey** <br>
-  *Zhiheng Xi and Wenxiang Chen and Xin Guo and Wei He and Yiwen Ding and Boyang Hong and Ming Zhang and Junzhe Wang and Senjie Jin and Enyu Zhou and Rui Zheng and Xiaoran Fan and Xiao Wang and Limao Xiong and Yuhao Zhou and Weiran Wang and Changhao Jiang and Yicheng Zou and Xiangyang Liu and Zhangyue Yin and Shihan Dou and Rongxiang Weng and Wensen Cheng and Qi Zhang and Wenjuan Qin and Yongyan Zheng and Xipeng Qiu and Xuanjing Huang and Tao Gui* 复旦大学NLP <br>
+  *Zhiheng Xi and Wenxiang Chen and Xin Guo and Wei He and Yiwen Ding and Boyang Hong and Ming Zhang and Junzhe Wang and Senjie Jin and Enyu Zhou and Rui Zheng and Xiaoran Fan and Xiao Wang and Limao Xiong and Yuhao Zhou and Weiran Wang and Changhao Jiang and Yicheng Zou and Xiangyang Liu and Zhangyue Yin and Shihan Dou and Rongxiang Weng and Wensen Cheng and Qi Zhang and Wenjuan Qin and Yongyan Zheng and Xipeng Qiu and Xuanjing Huang and Tao Gui* <br>
+  Team: NLP group, Fudan University <br>
   arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07864)] [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
 
@@ -114,6 +124,11 @@ For details please refer to [Papers List](papers)
   *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, Rufin VanRullen* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.08708)] 
 
+## <a name="robotics_papers"></a> Robotics Papers
+- **Eureka: Human-Level Reward Design via Coding Large Language Models** <br>
+  *Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12931)], [[Code](https://github.com/eureka-research/Eureka)]
+
 ## <a name="product"></a> Product
 For details please refer to [Products List](products)
 
@@ -126,21 +141,21 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
   [[Code](https://github.com/yoheinakajima/babyagi)]![](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)
 - `R&D` **Langchain** <br>
   [[Code](https://github.com/hwchase17/langchain)] ![](https://img.shields.io/github/stars/hwchase17/langchain?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/hwchase17/langchain?style=round-square&logo=Github&logoColor=white)
-- `R&D` **Auto-GPT**
+- `R&D` **Auto-GPT** <br>
   [[Code](https://github.com/Significant-Gravitas/Auto-GPT)] ![](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)
-- `R&D`**MetaGPT**
+- `R&D`**MetaGPT** <br>
   [[Code](https://github.com/geekan/MetaGPT)] ![](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)
-- `R&D` **Generative Agents**
+- `R&D` **Generative Agents** <br>
   [[Code](https://github.com/joonspk-research/generative_agents)] ![](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)
-- `R&D`**WebArena** 
+- `R&D`**WebArena** <br>
   [[Code](https://github.com/web-arena-x/webarena)] ![](https://img.shields.io/github/stars/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)
-- `R&D` **AI Town**
+- `R&D` **AI Town** <br>
   [[Code](https://github.com/a16z-infra/ai-town)] ![](https://img.shields.io/github/stars/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white)
-- `R&D` **AgentSims**
+- `R&D` **AgentSims** <br>
   [[Code](https://github.com/py499372727/AgentSims)] ![](https://img.shields.io/github/stars/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)
-- `R&D` **Lagent**
+- `R&D` **Lagent** <br>
   [[Code](https://github.com/InternLM/lagent)] ![](https://img.shields.io/github/stars/InternLM/lagent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/InternLM/lagent?style=round-square&logo=Github&logoColor=white)
-- `R&D` **GPT Researcher**
+- `R&D` **GPT Researcher** <br>
   [[Code](https://github.com/assafelovic/gpt-researcher)] ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)
 - `R&D` **ChatDev** <br>
   [[Code](https://github.com/OpenBMB/ChatDev)]![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)
@@ -150,23 +165,33 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
   [[Code](https://github.com/ysymyth/awesome-language-agents)]![](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)
 - `R&D` **AIWaves Agents** <br>
   [[Code](https://github.com/aiwaves-cn/agents)]![](https://img.shields.io/github/stars/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)
-- `Business` **AI Agent**
+- `Business` **AI Agent** <br>
   [[Site](https://aiagent.app/)]
   AI Agent is a flexible app that lets user create their own agents, by setting a name with an objective.
-- `Business` **AgentGPT**
+- `Business` **AgentGPT** <br>
   [[Code](https://github.com/reworkd/AgentGPT)] ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) 
   Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
-- `Business`**SuperAGI**
+- `Business`**SuperAGI** <br>
   [[Code](https://github.com/TransformerOptimus/SuperAGI)] ![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
 - `Business` **Council** <br>
   [[Code](https://github.com/chain-ml/council)]![](https://img.shields.io/github/stars/chain-ml/council?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/chain-ml/council?style=round-square&logo=Github&logoColor=white)
 - `Business` **AutoGen** <br>
   Team: Microsoft <br>
   [[Site](https://microsoft.github.io/autogen/)]<br>
-  [[Code](https://github.com/microsoft/autogen)]![](https://img.shields.io/github/stars/microsoft/autogen?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/microsoft/autogen?style=round-square&logo=Github&logoColor=white)
+  [[Code](https://github.com/microsoft/autogen)] ![](https://img.shields.io/github/stars/microsoft/autogen?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/microsoft/autogen?style=round-square&logo=Github&logoColor=white)
+
+
 ## <a name="expert_roles_llm"></a> Expert Roles LLM
 ### For Coding
-1. `Based LLaMa 2` [Code Llama](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/) By Meta AI · August 24, 2023
+- `Based LLaMa 2` [Code Llama](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/) By Meta AI · August 24, 2023
+
+## <a name="tools"></a> Tools
+- **TensorRT-LLM**<br>
+By NVIDIA
+[[Code](https://github.com/NVIDIA/TensorRT-LLM)] ![](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/NVIDIA/TensorRT-LLM?style=round-square&logo=Github&logoColor=white)
+- **llama_ros**<br>
+[[Code](https://github.com/mgonzs13/llama_ros)] ![](https://img.shields.io/github/stars/mgonzs13/llama_ros?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/mgonzs13/llama_ros?style=round-square&logo=Github&logoColor=white)
+This repository provides a set of ROS 2 packages to integrate llama.cpp into ROS 2. By using the llama_ros packages, you can easily incorporate the powerful optimization capabilities of llama.cpp into your ROS 2 projects.
 
 ## <a name="blogs_and_resources"></a> Useful Blogs and Resources 
 
