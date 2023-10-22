@@ -134,8 +134,9 @@ For details please refer to [Products List](products)
 
 AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-wild)
 <div align="center">
-<img align="center" height="800" src="https://framerusercontent.com/images/KbZcWUWytUkP0qPk1yF2eeM6E.png">
+  <img align="center" height="800" src="https://framerusercontent.com/images/KbZcWUWytUkP0qPk1yF2eeM6E.png">
 </div>
+
 - `R&D` **XAgent** <br>
   [[Code](https://github.com/OpenBMB/XAgent)] ![](https://img.shields.io/github/stars/OpenBMB/XAgent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/XAgent?style=round-square&logo=Github&logoColor=white)
   Team: OpenBMB; NLP, Tsinghua University
