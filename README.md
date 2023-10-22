@@ -138,15 +138,16 @@ AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-w
 </div>
 
 - `R&D` **XAgent** <br>
+  Team: OpenBMB; NLP, Tsinghua University <br>
   [[Code](https://github.com/OpenBMB/XAgent)] ![](https://img.shields.io/github/stars/OpenBMB/XAgent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/XAgent?style=round-square&logo=Github&logoColor=white)
-  Team: OpenBMB; NLP, Tsinghua University
 - `R&D` **AIWaves Agents** <br>
   [[Code](https://github.com/aiwaves-cn/agents)] ![](https://img.shields.io/github/stars/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)
 - `R&D` **CoALA** `Code Not Released`<br>
   [[Code](https://github.com/ysymyth/awesome-language-agents)] ![](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)
 - `R&D` **AgentVerse** <br>
+  Team: OpenBMB <br>
   [[Code](https://github.com/OpenBMB/AgentVerse)] ![](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white)
-  Team: OpenBMB
+  
 - `R&D` **ChatDev** <br>
   [[Code](https://github.com/OpenBMB/ChatDev)] ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)
 - `R&D` **GPT Researcher** <br>
