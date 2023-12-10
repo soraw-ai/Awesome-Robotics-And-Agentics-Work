@@ -130,11 +130,11 @@ For details please refer to [Papers List](papers)
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12931)], [[Code](https://github.com/eureka-research/Eureka)]
 
 ## <a name="product"></a> Product
-For details please refer to [Products List](products)
+For details, please refer to [Products List](products)
 
-AI Agents Landscape, by July 2023  [E2B](https://e2b.dev/blog/ai-agents-in-the-wild)
+AI Agents Landscape, by Nov 15, 2023  [E2B](https://e2b.dev/blog/will-openai-s-gpts-kill-ai-agents)
 <div align="center">
-  <img align="center" height="800" src="https://framerusercontent.com/images/KbZcWUWytUkP0qPk1yF2eeM6E.png">
+  <img align="center" height="800" src="https://framerusercontent.com/images/XSI5aYgmRt8JSuEYsajAUPzVCs.png">
 </div>
 
 - `R&D` **XAgent** <br>
