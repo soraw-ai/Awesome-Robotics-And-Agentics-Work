@@ -15,6 +15,7 @@ Currently, there are two main directions, LLM-based Agents and RL-based Agents. 
 	* [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
 	* [Consciousness](#consciousness)
 * [Robotics Papers](#robotics_papers)
+  * [Foundation Model Based Robotics](#foundation_model_based_robotics)
 * [Product](#product)
 * [Expert Roles LLM](#expert_roles_llm)
 * [Tools](#tools)
@@ -125,9 +126,30 @@ For details please refer to [Papers List](papers)
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.08708)] 
 
 ## <a name="robotics_papers"></a> Robotics Papers
+### <a name="foundation_model_based_robotics"></a> Foundation Model Based Robotics
 - **Eureka: Human-Level Reward Design via Coding Large Language Models** <br>
   *Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12931)], [[Code](https://github.com/eureka-research/Eureka)]
+- **Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis** `Survey`<br>
+  *Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keetha, Seungchan Kim, Yaqi Xie, Tianyi Zhang, Zhibo Zhao, Yu-Quan Chong, Chen Wang, Katia Sycara, Matthew Johnson-Roberson, Dhruv Batra, Xiaolong Wang, Sebastian Scherer, Zsolt Kira, Fei Xia, Yonatan Bisk* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.08782)], [[Code](https://github.com/JeffreyYH/robotics-fm-survey)]
+- **Foundation Models in Robotics: Applications, Challenges, and the Future** `Survey`<br>
+  *Roya Firoozi, Johnathan Tucker, Stephen Tian, Anirudha Majumdar, Jiankai Sun, Weiyu Liu, Yuke Zhu, Shuran Song, Ashish Kapoor, Karol Hausman, Brian Ichter, Danny Driess, Jiajun Wu, Cewu Lu, Mac Schwager* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.07843)], [[Code](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
+- **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation** <br>
+  *Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, Zackory Erickson, David Held, Chuang Gan* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.01455)], [[Code](https://github.com/Genesis-Embodied-AI/RoboGen)]
+- **GenSim: Generating Robotic Simulation Tasks via Large Language Models** <br>
+  *Lirui Wang, Yiyang Ling, Zhecheng Yuan, Mohit Shridhar, Chen Bao, Yuzhe Qin, Bailin Wang, Huazhe Xu, Xiaolong Wang* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.01361)], [[Code](https://github.com/liruiw/GenSim)]
+- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** <br>
+  Team: Stanford University, Fei-Fei Li. <br>
+  *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/huangwl18/VoxPoser)]
+- **RVT: Robotic View Transformer for 3D Object Manipulation** <br>
+  Team: NVIDIA Labs <br>
+  *Ankit Goyal, Jie Xu, Yijie Guo, Valts Blukis, Yu-Wei Chao, Dieter Fox* <br>
+  **CoRL (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/nvlabs/rvt)]
 
 ## <a name="product"></a> Product
 For details, please refer to [Products List](products)
