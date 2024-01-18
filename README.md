@@ -39,7 +39,7 @@ Multi-agents = Agents + Environment + SOP + Auditing + Routing + Subscribtion + 
 
 ## <a name="autonomous_agents_papers"></a> Autonomous Agents Papers
 
-For details please refer to [Papers List](papers)
+For details please refer to [Papers List](papers/Agents.md)
 
 ### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
 - **AgentTuning: Enabling Generalized Agent Abilities for LLMs** <br>
@@ -126,6 +126,8 @@ For details please refer to [Papers List](papers)
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.08708)] 
 
 ## <a name="robotics_papers"></a> Robotics Papers
+For details please refer to [Papers List](papers/Robotics.md)
+
 ### <a name="foundation_model_based_robotics"></a> Foundation Model Based Robotics
 - **Eureka: Human-Level Reward Design via Coding Large Language Models** <br>
   *Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
@@ -145,11 +147,15 @@ For details please refer to [Papers List](papers)
 - **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** <br>
   Team: Stanford University, Fei-Fei Li. <br>
   *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei* <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/huangwl18/VoxPoser)]
+  **CoRL'23**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/huangwl18/VoxPoser)]
 - **RVT: Robotic View Transformer for 3D Object Manipulation** <br>
   Team: NVIDIA Labs <br>
   *Ankit Goyal, Jie Xu, Yijie Guo, Valts Blukis, Yu-Wei Chao, Dieter Fox* <br>
-  **CoRL (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/nvlabs/rvt)]
+  **CoRL'23 (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/nvlabs/rvt)]
+- **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** <br>
+  Team: NVIDIA Labs <br>
+  *William Shen, Ge Yang, Alan Yu, Jansen Wong, Leslie Pack Kaelbling, Phillip Isola* <br>
+  **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[Code](https://github.com/f3rm/f3rm)]
 
 ## <a name="product"></a> Product
 For details, please refer to [Products List](products)
@@ -241,7 +247,7 @@ If you find this repository useful, please consider citing this list:
     title = {Awesome-Robotics-and-Autonomous-Agents},
     author = {Rui Sun},
     journal = {GitHub repository},
-    url = {https://github.com/ray-ruisun/Awesome-Robotics-and-Autonomous-Agents},
+    url = {https://github.com/soraw-ai/Awesome-Robotics-and-Autonomous-Agents},
     year = {2023},
 }
 ```
