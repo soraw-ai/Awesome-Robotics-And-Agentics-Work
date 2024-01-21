@@ -187,7 +187,7 @@ For details please refer to [Papers List](papers/Robotics.md)
   *Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12931)], [[Code](https://github.com/eureka-research/Eureka)]
 
-## <a name="product"></a> Product
+## <a name="product"></a> Autonomous Agents Product
 For details, please refer to [Products List](products)
 
 AI Agents Landscape, by Nov 15, 2023  [E2B](https://e2b.dev/blog/will-openai-s-gpts-kill-ai-agents)
