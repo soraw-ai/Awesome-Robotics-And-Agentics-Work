@@ -4,6 +4,7 @@
   * [Manipulation](#robo_manipulation)
   * [Navigation](#robo_navigation)
   * [Planning](#robo_planning)
+  * [Task Adaptation](#robo_task_adapt)
   * [Dataset/Benchmark/Simulator/Tool](#robo_ben_sim_tool)
   * [Survey](#robo_survey)
 
@@ -28,17 +29,21 @@
 - **ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation** <br>
   *Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.16217)], [[PDF](https://arxiv.org/pdf/2312.16217.pdf)], [[Home Page](https://sites.google.com/view/manipllm)]
+- **M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place** <br>
+  *Wentao Yuan, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox* <br>
+  CoRL'23, arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2311.00926)], [[PDF](https://arxiv.org/pdf/2311.00926.pdf)], [[Home Page](https://m2-t2.github.io/)] <br>
+  [[Code](https://github.com/NVlabs/M2T2)] ![](https://img.shields.io/github/stars/NVlabs/M2T2?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/NVlabs/M2T2?style=round-square&logo=Github&logoColor=white)
 - **Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation** <br>
   *Yang You, Bokui Shen, Congyue Deng, Haoran Geng, He Wang, Leonidas Guibas* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.02787)], [[PDF](https://arxiv.org/pdf/2311.02787.pdf)]
 - **D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation** <br>
   Team: UIUC, Stanford University, Fei-Fei Li. <br>
   *Yixuan Wang, Zhuoran Li, Mingtong Zhang, Katherine Driggs-Campbell, Jiajun Wu, Li Fei-Fei, Yunzhu Li* <br>
-  **CoRL'23**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2309.16118)], [[PDF](https://arxiv.org/pdf/2309.16118.pdf)], [[Home Page](https://robopil.github.io/d3fields/)], [[Demo](https://www.youtube.com/watch?v=yNkIOwAO3GA)]<br>
+  CoRL'23, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2309.16118)], [[PDF](https://arxiv.org/pdf/2309.16118.pdf)], [[Home Page](https://robopil.github.io/d3fields/)], [[Demo](https://www.youtube.com/watch?v=yNkIOwAO3GA)]<br>
   [[Code](https://github.com/WangYixuan12/d3fields)] ![](https://img.shields.io/github/stars/WangYixuan12/d3fields?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/WangYixuan12/d3fields?style=round-square&logo=Github&logoColor=white)
 - **Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models** <br>
   *Pushkal Katara, Zhou Xian, Katerina Fragkiadaki* <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.18308)], [[PDF](https://arxiv.org/pdf/2310.18308.pdf)], [[Home Page](https://gen2sim.github.io/)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.18308)], [[PDF](https://arxiv.org/pdf/2310.18308.pdf)], [[Home Page](https://gen2sim.github.io/)] <br>
   [[Code](https://github.com/pushkalkatara/Gen2Sim)] ![](https://img.shields.io/github/stars/pushkalkatara/Gen2Sim?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/pushkalkatara/Gen2Sim?style=round-square&logo=Github&logoColor=white)
 -  **RVT: Robotic View Transformer for 3D Object Manipulation** <br>
   Team: NVIDIA Labs <br>
@@ -48,22 +53,26 @@
 - **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** <br>
   Team: NVIDIA Labs <br>
   *William Shen, Ge Yang, Alan Yu, Jansen Wong, Leslie Pack Kaelbling, Phillip Isola* <br>
-  **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[Code](https://github.com/f3rm/f3rm)] ![](https://img.shields.io/github/stars/f3rm/f3rm?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/f3rm/f3rm?style=round-square&logo=Github&logoColor=white)
+  **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)] <br>
+  [Code](https://github.com/f3rm/f3rm)] ![](https://img.shields.io/github/stars/f3rm/f3rm?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/f3rm/f3rm?style=round-square&logo=Github&logoColor=white)
 ## <a name="robo_navigation"></a> Navigation
 - **Visual Language Maps for Robot Navigation** <br>
   *Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard* <br>
-  ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Home Page](https://vlmaps.github.io/)]
+  ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Home Page](https://vlmaps.github.io/)] <br>
   [[Code](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing)]
 ## <a name="robo_planning"></a> Planning
 - **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Task Planning`,`Multimodal` <br>
   Team: Stanford University, Fei-Fei Li. <br>
   *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei* <br>
-  **CoRL'23**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)] <br>
+  **CoRL'23(Oral)**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)] <br>
   [[Code](https://github.com/huangwl18/VoxPoser)] ![](https://img.shields.io/github/stars/huangwl18/VoxPoser?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/huangwl18/VoxPoser?style=round-square&logo=Github&logoColor=white)
 - **Prompt a Robot to Walk with Large Language Models** <br>
   *Yen-Jen Wang, Bike Zhang, Jianyu Chen, Koushil Sreenath* <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.09969)], [[PDF](https://arxiv.org/pdf/2309.09969.pdf)], [[Home Page](https://prompt2walk.github.io/)] <br>
   [[Code](https://github.com/HybridRobotics/prompt2walk)] ![](https://img.shields.io/github/stars/HybridRobotics/prompt2walk?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/HybridRobotics/prompt2walk?style=round-square&logo=Github&logoColor=white)
+- **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning** <br>
+  *Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian Reid, Niko Suenderhauf* <br>
+  **CoRL'23(Oral)**, arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06135)], [[PDF](https://arxiv.org/pdf/2307.06135.pdf)], [[Home Page](https://sayplan.github.io/)], [[Demo](https://www.youtube.com/watch?v=3aMgpqnD2RY)] <br>
 - **Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents** `Multimodal` <br>
   Team: Stanford University, Robotics at Google. <br>
   *Wenlong Huang, Fei Xia, Dhruv Shah, et al., Brian Ichter* <br>
@@ -77,6 +86,12 @@
   *Peter A. Jansen* <br>
   EMNLP'20, arXiv, 2020.09 [[Paper](https://arxiv.org/abs/2009.14259)], [[PDF](https://arxiv.org/pdf/2009.14259.pdf)] <br>
   [[Code](https://github.com/cognitiveailab/alfred-gpt2/)] ![](https://img.shields.io/github/stars/cognitiveailab/alfred-gpt2?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/cognitiveailab/alfred-gpt2?style=round-square&logo=Github&logoColor=white)
+### <a name="robo_task_adapt"></a> Task Adaptation
+- **Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance** `Learn New Tasks` <br>
+  Team: Robotics at Google, Everyday Robots. <br>
+  *Jesse Zhang, Jiahui Zhang, Karl Pertsch, et al., Joseph J. Lim* <br>
+  **CoRL'23(Oral)**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.10021)], [[PDF](https://arxiv.org/pdf/2310.10021.pdf)], [[Home Page](https://clvrai.github.io/boss/)] <br>
+  [[Code](https://github.com/clvrai/boss)] ![](https://img.shields.io/github/stars/clvrai/boss?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/clvrai/boss?style=round-square&logo=Github&logoColor=white)
 ## <a name="robo_survey"></a> Survey
 - **Large Language Models for Robotics: Opportunities, Challenges, and Perspectives** <br>
   *Jiaqi Wang, Zihao Wu, Yiwei Li, et al., Shu Zhang* <br>
