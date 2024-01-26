@@ -13,6 +13,7 @@
 * [Robotics Papers](#robotics_papers)
   * [Data/Simulation Argument](#robo_data_sim_argu)
   * [Manipulation](#robo_manipulation)
+  * [Navigation](#robo_navigation)
   * [Planning](#robo_planning)
   * [Dataset/Benchmark/Simulator/Tool](#robo_ben_sim_tool)
   * [Survey](#robo_survey)
@@ -41,7 +42,7 @@ For details please refer to [Papers List](papers/Agents.md)
   *Yue Wu, Xuan Tang, Tom M. Mitchell, Yuanzhi Li* <br>
   Team: Microsoft <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.01557)] [[Code](https://github.com/microsoft/SmartPlay)]
-- **A Survey on Large Language Model based Autonomous Agents** `Survey`<br>
+- **A Survey on Large Language Model based Autonomous Agents** <br>
   *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen* <br>
   arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.11432)] [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** <br>
@@ -106,7 +107,7 @@ For details please refer to [Papers List](papers/Agents.md)
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.04658)] 
 
 ### <a name="consciousness"></a> Consciousness
-- **It Takes Two to Tango: Towards Theory of AI's Mind** `Survey`<br>
+- **It Takes Two to Tango: Towards Theory of AI's Mind** <br>
   *Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, Rufin VanRullen* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.08708)] 
 
@@ -141,10 +142,6 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models** <br>
   *Pushkal Katara, Zhou Xian, Katerina Fragkiadaki* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.18308)], [[PDF](https://arxiv.org/pdf/2310.18308.pdf)], [[Code](https://github.com/pushkalkatara/Gen2Sim)], [[Home Page](https://gen2sim.github.io/)]
-- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** <br>
-  Team: Stanford University, Fei-Fei Li. <br>
-  *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei* <br>
-  **CoRL'23**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/huangwl18/VoxPoser)]
 - **RVT: Robotic View Transformer for 3D Object Manipulation** <br>
   Team: NVIDIA Labs <br>
   *Ankit Goyal, Jie Xu, Yijie Guo, Valts Blukis, Yu-Wei Chao, Dieter Fox* <br>
@@ -153,10 +150,29 @@ For details please refer to [Papers List](papers/Robotics.md)
   Team: NVlabs NVIDIA <br>
   *William Shen, Ge Yang, Alan Yu, Jansen Wong, Leslie Pack Kaelbling, Phillip Isola* <br>
   **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[Code](https://github.com/f3rm/f3rm)]
+- ### <a name="robo_navigation"></a> Navigation
+- **Visual Language Maps for Robot Navigation** <br>
+  *Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard* <br>
+  ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Code](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing)], [[Home Page](https://vlmaps.github.io/)]
 ### <a name="robo_planning"></a> Planning
+- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Task Planning`,`Multimodal` <br>
+  Team: Stanford University, Fei-Fei Li. <br>
+  *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei* <br>
+  **CoRL'23**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/huangwl18/VoxPoser)]
 - **Prompt a Robot to Walk with Large Language Models** <br>
   *Yen-Jen Wang, Bike Zhang, Jianyu Chen, Koushil Sreenath* <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.09969)], [[PDF](https://arxiv.org/pdf/2309.09969.pdf)], [[Code](https://github.com/HybridRobotics/prompt2walk)], [[Home Page](https://prompt2walk.github.io/)]
+- **Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents** `Multimodal` <br>
+  Team: Stanford University, Robotics at Google. <br>
+  *Wenlong Huang, Fei Xia, Dhruv Shah, et al., Brian Ichter* <br>
+  arXiv, 2023.03 [[Paper](https://arxiv.org/abs/2303.00855)], [[PDF](https://arxiv.org/pdf/2303.00855.pdf)], [[Home Page](https://grounded-decoding.github.io/)], [[Demo](https://www.youtube.com/watch?v=KHhAlBIQftQ)] <br>
+- **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances** `Task Planning`, `Multimodal` <br>
+  Team: Robotics at Google, Everyday Robots. <br>
+  *Michael Ahn, Anthony Brohan, Noah Brown, et al., Andy Zeng* <br>
+  arXiv, 2022.04 [[Paper](https://arxiv.org/abs/2204.01691)], [[PDF](https://arxiv.org/pdf/2204.01691.pdf)], [[Code](https://github.com/google-research/google-research/tree/master/saycan)], [[Home Page](https://say-can.github.io/)], [[Demo](https://sites.research.google/palm-saycan)] <br>
+- **Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions** `Language Model Only` <br>
+  *Peter A. Jansen* <br>
+  EMNLP'20, arXiv, 2020.09 [[Paper](https://arxiv.org/abs/2009.14259)], [[PDF](https://arxiv.org/pdf/2009.14259.pdf)], [[Code](https://github.com/cognitiveailab/alfred-gpt2/)] <br>
 ### <a name="robo_ben_sim_tool"></a> Dataset/Benchmark/Simulator/Tool
 - **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** <br>
   Team: DeepMind <br>
@@ -170,16 +186,19 @@ For details please refer to [Papers List](papers/Robotics.md)
   *Stephen James, Zicong Ma, David Rovick Arrojo, Andrew J. Davison* <br>
   IEEE Robotics and Automation Letters, 2019.09 [[Paper](https://arxiv.org/abs/1909.12271)], [[Code](https://github.com/stepjam/RLBench)]
 ### <a name="robo_survey"></a> Survey
-- **Language-conditioned Learning for Robotic Manipulation: A Survey** `Survey`<br>
+- **Large Language Models for Robotics: Opportunities, Challenges, and Perspectives** <br>
+  *Jiaqi Wang, Zihao Wu, Yiwei Li, et al., Shu Zhang* <br>
+  arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.04334)], [[PDF](https://arxiv.org/pdf/2401.04334.pdf)]
+- **Language-conditioned Learning for Robotic Manipulation: A Survey** <br>
   *Hongkuan Zhou, Xiangtong Yao, Yuan Meng, Siming Sun, Zhenshan BIng, Kai Huang, Alois Knoll* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.10807)], [[PDF](https://arxiv.org/pdf/2312.10807.pdf)]
-- **Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis** `Survey`<br>
-  *Yafei Hu, Quanting Xie, Vidhi Jain, Jonathan Francis, Jay Patrikar, Nikhil Keetha, Seungchan Kim, Yaqi Xie, Tianyi Zhang, Zhibo Zhao, Yu-Quan Chong, Chen Wang, Katia Sycara, Matthew Johnson-Roberson, Dhruv Batra, Xiaolong Wang, Sebastian Scherer, Zsolt Kira, Fei Xia, Yonatan Bisk* <br>
+- **Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis** <br>
+  *Yafei Hu, Quanting Xie, Vidhi Jain, et al., Yonatan Bisk* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.08782)], [[Code](https://github.com/JeffreyYH/robotics-fm-survey)]
-- **Foundation Models in Robotics: Applications, Challenges, and the Future** `Survey`<br>
+- **Foundation Models in Robotics: Applications, Challenges, and the Future** <br>
   *Roya Firoozi, Johnathan Tucker, Stephen Tian, Anirudha Majumdar, Jiankai Sun, Weiyu Liu, Yuke Zhu, Shuran Song, Ashish Kapoor, Karol Hausman, Brian Ichter, Danny Driess, Jiajun Wu, Cewu Lu, Mac Schwager* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.07843)], [[PDF](https://arxiv.org/pdf/2312.08782.pdf)], [[Code](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
-- **Robot Learning in the Era of Foundation Models: A Survey** `Survey`<br>
+- **Robot Learning in the Era of Foundation Models: A Survey** <br>
   *Xuan Xiao, Jiahang Liu, Zhipeng Wang, Yanmin Zhou, Yong Qi, Qian Cheng, Bin He, Shuo Jiang* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.14379)], [[PDF](https://arxiv.org/pdf/2311.14379.pdf)]
 ### <a name="robo_uncategorized"></a> Uncategorized
