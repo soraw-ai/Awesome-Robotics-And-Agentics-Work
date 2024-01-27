@@ -31,39 +31,39 @@ For details please refer to [Papers List](papers/Agents.md)
 ### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
 - **AgentTuning: Enabling Generalized Agent Abilities for LLMs** <br>
   *Aohan Zeng, Mingdao Liu, Rui Lu, Bowen Wang, Xiao Liu, Yuxiao Dong, Jie Tang* <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12823)] [[Code](https://github.com/THUDM/AgentTuning)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12823)], [[Code](https://github.com/THUDM/AgentTuning)]
 - **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** <br>
   *Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, Wei Ye, Shikun Zhang, Jiang Bian* <br>
   Team: Microsoft <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.11954)] [[Code](https://github.com/microsoft/muzic)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.11954)], [[Code](https://github.com/microsoft/muzic)]
 - **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** <br>
   *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang* <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.04406)] [[Code](https://github.com/andyz245/LanguageAgentTreeSearch)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.04406)], [[Code](https://github.com/andyz245/LanguageAgentTreeSearch)]
 - **SmartPlay : A Benchmark for LLMs as Intelligent Agents** <br>
   *Yue Wu, Xuan Tang, Tom M. Mitchell, Yuanzhi Li* <br>
   Team: Microsoft <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.01557)] [[Code](https://github.com/microsoft/SmartPlay)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.01557)], [[Code](https://github.com/microsoft/SmartPlay)]
 - **A Survey on Large Language Model based Autonomous Agents** <br>
   *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen* <br>
-  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.11432)] [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.11432)], [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** <br>
   *Jiaju Lin, Haoran Zhao, Aochi Zhang, Yiting Wu, Huqiuyue Ping, Qin Chen* <br>
-  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.04026)] [[Code](https://github.com/py499372727/AgentSims)]
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.04026)], [[Code](https://github.com/py499372727/AgentSims)]
 - **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework** <br>
   *Sirui Hong, Xiawu Zheng, Jonathan Chen, Yuheng Cheng, Jinlin Wang, Ceyao Zhang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu* <br>
-  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.00352)] [[Code](https://github.com/geekan/MetaGPT)]
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.00352)], [[Code](https://github.com/geekan/MetaGPT)]
 - **WebArena: A Realistic Web Environment for Building Autonomous Agents** <br>
   *Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig* <br>
-  arXiv, 2023.07. [[Paper](https://arxiv.org/abs/2307.13854)] [[Code](https://github.com/web-arena-x/webarena)]
+  arXiv, 2023.07. [[Paper](https://arxiv.org/abs/2307.13854)], [[Code](https://github.com/web-arena-x/webarena)]
 - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** <br>
   *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, Tao Ge, Furu Wei, Heng Ji* <br>
-  arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.05300)] [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
+  arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.05300)], [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
 - **Minimum Levels of Interpretability for Artificial Moral Agents** <br>
   *Avish Vijayaraghavan, Cosmin Badea* <br>
   arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.00660)] 
 - **Decision-Oriented Dialogue for Human-AI Collaboration** <br>
   *Jessy Lin, Nicholas Tomlin, Jacob Andreas, Jason Eisner* <br>
-  arXiv, 2023.05. [[Paper](https://arxiv.org/pdf/2305.20076)] [[Code](https://github.com/jlin816/dialop)]
+  arXiv, 2023.05. [[Paper](https://arxiv.org/pdf/2305.20076)], [[Code](https://github.com/jlin816/dialop)]
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face** <br>
   *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang* <br>
   arXiv, 2023.05. [[Paper](https://arxiv.org/abs/2303.17580)]
@@ -91,7 +91,7 @@ For details please refer to [Papers List](papers/Agents.md)
 - **The Rise and Potential of Large Language Model Based Agents: A Survey** <br>
   *Zhiheng Xi and Wenxiang Chen and Xin Guo and Wei He and Yiwen Ding and Boyang Hong and Ming Zhang and Junzhe Wang and Senjie Jin and Enyu Zhou and Rui Zheng and Xiaoran Fan and Xiao Wang and Limao Xiong and Yuhao Zhou and Weiran Wang and Changhao Jiang and Yicheng Zou and Xiangyang Liu and Zhangyue Yin and Shihan Dou and Rongxiang Weng and Wensen Cheng and Qi Zhang and Wenjuan Qin and Yongyan Zheng and Xipeng Qiu and Xuanjing Huang and Tao Gui* <br>
   Team: NLP group, Fudan University <br>
-  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07864)] [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07864)], [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
 
 ### <a name="traditional_auto_agents"></a> Traditional Autonomous Agents
