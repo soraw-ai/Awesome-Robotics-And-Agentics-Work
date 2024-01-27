@@ -29,7 +29,7 @@
 - **ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation** <br>
   *Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.16217)], [[PDF](https://arxiv.org/pdf/2312.16217.pdf)], [[Home Page](https://sites.google.com/view/manipllm)]
-- **M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place** <br>
+- **M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place** `Grasp` <br>
   *Wentao Yuan, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox* <br>
   CoRL'23, arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2311.00926)], [[PDF](https://arxiv.org/pdf/2311.00926.pdf)], [[Home Page](https://m2-t2.github.io/)] <br>
   [[Code](https://github.com/NVlabs/M2T2)] ![](https://img.shields.io/github/stars/NVlabs/M2T2?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/NVlabs/M2T2?style=round-square&logo=Github&logoColor=white)
@@ -45,15 +45,15 @@
   *Pushkal Katara, Zhou Xian, Katerina Fragkiadaki* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.18308)], [[PDF](https://arxiv.org/pdf/2310.18308.pdf)], [[Home Page](https://gen2sim.github.io/)] <br>
   [[Code](https://github.com/pushkalkatara/Gen2Sim)] ![](https://img.shields.io/github/stars/pushkalkatara/Gen2Sim?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/pushkalkatara/Gen2Sim?style=round-square&logo=Github&logoColor=white)
--  **RVT: Robotic View Transformer for 3D Object Manipulation** <br>
+-  **RVT: Robotic View Transformer for 3D Object Manipulation** `Grasp` <br>
   Team: NVIDIA Labs <br>
   *Ankit Goyal, Jie Xu, Yijie Guo, Valts Blukis, Yu-Wei Chao, Dieter Fox* <br>
   **CoRL (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2307.05973)] <br>
   [[Code](https://github.com/nvlabs/rvt)] ![](https://img.shields.io/github/stars/nvlabs/rvt?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/nvlabs/rvt?style=round-square&logo=Github&logoColor=white)
-- **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** <br>
-  Team: NVIDIA Labs <br>
+- **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** `Grasp` <br>
+  Team: MIT CSAIL <br>
   *William Shen, Ge Yang, Alan Yu, Jansen Wong, Leslie Pack Kaelbling, Phillip Isola* <br>
-  **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)] <br>
+  **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[PDF](https://arxiv.org/abs/2308.07931)], [[Home Page](https://f3rm.github.io/)], [[Demo](https://f3rm.github.io/#video)] <br>
   [Code](https://github.com/f3rm/f3rm)] ![](https://img.shields.io/github/stars/f3rm/f3rm?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/f3rm/f3rm?style=round-square&logo=Github&logoColor=white)
 ## <a name="robo_navigation"></a> Navigation
 - **Visual Language Maps for Robot Navigation** <br>

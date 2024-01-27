@@ -133,7 +133,7 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation** <br>
   *Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2312.16217)], [[PDF](https://arxiv.org/pdf/2312.16217.pdf)], [[Home Page](https://sites.google.com/view/manipllm)]
-- **M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place** <br>
+- **M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place** `Grasp` <br>
   *Wentao Yuan, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox* <br>
   CoRL'23, arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2311.00926)], [[PDF](https://arxiv.org/pdf/2311.00926.pdf)], [[Code](https://github.com/NVlabs/M2T2)], [[Home Page](https://m2-t2.github.io/)]
 - **Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation** <br>
@@ -146,18 +146,18 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models** <br>
   *Pushkal Katara, Zhou Xian, Katerina Fragkiadaki* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.18308)], [[PDF](https://arxiv.org/pdf/2310.18308.pdf)], [[Code](https://github.com/pushkalkatara/Gen2Sim)], [[Home Page](https://gen2sim.github.io/)]
-- **RVT: Robotic View Transformer for 3D Object Manipulation** <br>
+- **RVT: Robotic View Transformer for 3D Object Manipulation** `Grasp` <br>
   Team: NVIDIA Labs <br>
   *Ankit Goyal, Jie Xu, Yijie Guo, Valts Blukis, Yu-Wei Chao, Dieter Fox* <br>
   **CoRL'23 (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2307.05973)], [[Code](https://github.com/nvlabs/rvt)]
-- **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** <br>
-  Team: NVlabs NVIDIA <br>
+- **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** `Grasp` <br>
+  Team: MIT CSAIL <br>
   *William Shen, Ge Yang, Alan Yu, Jansen Wong, Leslie Pack Kaelbling, Phillip Isola* <br>
-  **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[Code](https://github.com/f3rm/f3rm)]
-- ### <a name="robo_navigation"></a> Navigation
+  **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[PDF](https://arxiv.org/abs/2308.07931)], [[Code](https://github.com/f3rm/f3rm)], [[Home Page](https://f3rm.github.io/)], [[Demo](https://f3rm.github.io/#video)]
+### <a name="robo_navigation"></a> Navigation
 - **Visual Language Maps for Robot Navigation** <br>
   *Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard* <br>
-  ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Code](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing)], [[Home Page](https://vlmaps.github.io/)]
+  ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Code](https://arxiv.org/pdf/2308.07931.pdf)], [[Home Page](https://vlmaps.github.io/)]
 ### <a name="robo_planning"></a> Planning
 - **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Task Planning`,`Multimodal` <br>
   Team: Stanford University, Fei-Fei Li. <br>
