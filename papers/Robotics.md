@@ -64,7 +64,7 @@
 - **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Task Planning`,`Multimodal` <br>
   Team: Stanford University, Fei-Fei Li. <br>
   *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei* <br>
-  **CoRL'23(Oral)**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)] <br>
+  **CoRL'23(Oral)**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)], [[PDF](https://arxiv.org/pdf/2307.05973.pdf)], [[Home Page](https://voxposer.github.io/)], [[Demo](https://www.youtube.com/watch?v=Yvn4eR05A3M)]  <br>
   [[Code](https://github.com/huangwl18/VoxPoser)] ![](https://img.shields.io/github/stars/huangwl18/VoxPoser?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/huangwl18/VoxPoser?style=round-square&logo=Github&logoColor=white)
 - **Prompt a Robot to Walk with Large Language Models** <br>
   *Yen-Jen Wang, Bike Zhang, Jianyu Chen, Koushil Sreenath* <br>
