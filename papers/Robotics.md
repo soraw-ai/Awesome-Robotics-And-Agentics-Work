@@ -70,7 +70,7 @@
   *Yen-Jen Wang, Bike Zhang, Jianyu Chen, Koushil Sreenath* <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.09969)], [[PDF](https://arxiv.org/pdf/2309.09969.pdf)], [[Home Page](https://prompt2walk.github.io/)] <br>
   [[Code](https://github.com/HybridRobotics/prompt2walk)] ![](https://img.shields.io/github/stars/HybridRobotics/prompt2walk?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/HybridRobotics/prompt2walk?style=round-square&logo=Github&logoColor=white)
-- **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning** <br>
+- **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning** `Task Planning` <br>
   *Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian Reid, Niko Suenderhauf* <br>
   **CoRL'23(Oral)**, arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06135)], [[PDF](https://arxiv.org/pdf/2307.06135.pdf)], [[Home Page](https://sayplan.github.io/)], [[Demo](https://www.youtube.com/watch?v=3aMgpqnD2RY)] <br>
 - **Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents** `Multimodal` <br>
