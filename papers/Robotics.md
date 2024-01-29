@@ -65,6 +65,21 @@
   ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Home Page](https://vlmaps.github.io/)] <br>
   [[Code](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing)]
 ## <a name="robo_planning"></a> Planning
+- **RePLan: Robotic Replanning with Perception and Language Models** `Motion Planning`,`Multimodal` <br>
+  *Marta Skreta, Zihan Zhou, Jia Lin Yuan, et al., Animesh Garg* <br>
+  arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.04157)], [[PDF](https://arxiv.org/pdf/2401.04157.pdf)], [[Home Page](https://replan-lm.github.io/replan.github.io/)], [[Demo](https://youtu.be/mgqR-vLsH0E)]
+- **Human Demonstrations are Generalizable Knowledge for Robots** `Task Planning`, `Human Demo` <br>
+  *Guangyan Chen, Te Cui, Tianxing Zhou, et al., Yufeng Yue* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.02419)], [[PDF](https://arxiv.org/pdf/2312.02419.pdf)]
+- **Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning** `Motion Planning`<br>
+  Team: Tsinghua University. <br>
+  *Yingdong Hu, Fanqi Lin, Tong Zhang, Li Yi, Yang Gao* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.17842)], [[PDF](https://arxiv.org/pdf/2311.17842.pdf)], [[Home Page](https://robot-vila.github.io/)], [[Demo](https://www.youtube.com/watch?v=t8pPZ46xtuc)]
+- **GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration** `Task Planning`, `Human Demo`<br>
+  Team: Microsoft. <br>
+  *Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi* <br>
+  arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.12015)], [[PDF](https://arxiv.org/pdf/2311.12015.pdf)], [[Home Page](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)]
+  [[Code](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts)] ![](https://img.shields.io/github/stars/microsoft/ChatGPT-Robot-Manipulation-Prompts?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/microsoft/ChatGPT-Robot-Manipulation-Prompts?style=round-square&logo=Github&logoColor=white)
 - **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Motion Planning`,`Multimodal` <br>
   Team: Stanford University, Fei-Fei Li. <br>
   *Wenlong Huang, Chen Wang, Ruohan Zhang, Yunzhu Li, Jiajun Wu, Li Fei-Fei* <br>
@@ -77,6 +92,10 @@
 - **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning** `Task Planning` <br>
   *Krishan Rana, Jesse Haviland, Sourav Garg, Jad Abou-Chakra, Ian Reid, Niko Suenderhauf* <br>
   **CoRL'23(Oral)**, arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.06135)], [[PDF](https://arxiv.org/pdf/2307.06135.pdf)], [[Home Page](https://sayplan.github.io/)], [[Demo](https://www.youtube.com/watch?v=3aMgpqnD2RY)] <br>
+- **PaLM-E: An Embodied Multimodal Language Model** `Task Planning`, `Multimodal` <br>
+  Team: Robotics at Google. <br>
+  *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, et al., Pete Florence* <br>
+  ICML'23, arXiv, 2023.03 [[Paper](https://arxiv.org/abs/2303.03378)], [[PDF](https://arxiv.org/pdf/2303.03378.pdf)], [[Home Page](https://palm-e.github.io/)] <br>
 - **Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents** `Multimodal` <br>
   Team: Stanford University, Robotics at Google. <br>
   *Wenlong Huang, Fei Xia, Dhruv Shah, et al., Brian Ichter* <br>
