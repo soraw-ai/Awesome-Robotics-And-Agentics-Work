@@ -127,6 +127,9 @@ For details please refer to [Papers List](papers/Robotics.md)
   *Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, Zackory Erickson, David Held, Chuang Gan* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.01455)], [[Code](https://github.com/Genesis-Embodied-AI/RoboGen)]
 ### <a name="robo_manipulation"></a> Manipulation
+- **Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation** `Grasp` <br>
+  *Yuanchen Ju, Kaizhe Hu, Guowei Zhang, Gu Zhang, Mingrun Jiang, Huazhe Xu* <br>
+  arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.07487)], [[PDF](https://arxiv.org/pdf/2401.07487.pdf)], [[Code (TBD)](https://github.com/TEA-Lab/Robo-ABC)], [[Home Page](https://tea-lab.github.io/Robo-ABC/)]
 - **Visual Robotic Manipulation with Depth-Aware Pretraining** <br>
   *Wanying Wang, Jinming Li, Yichen Zhu, Zhiyuan Xu, Zhengping Che, Yaxin Peng, Chaomin Shen, Dong Liu, Feifei Feng, Jian Tang* <br>
   arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.09038)], [[PDF](https://arxiv.org/pdf/2401.09038.pdf)]
@@ -139,7 +142,7 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation** <br>
   *Yang You, Bokui Shen, Congyue Deng, Haoran Geng, He Wang, Leonidas Guibas* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.02787)], [[PDF](https://arxiv.org/pdf/2311.02787.pdf)]
-- **D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation** <br>
+- **D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation** `Multimodal` <br>
   Team: UIUC, Stanford University, Fei-Fei Li. <br>
   *Yixuan Wang, Zhuoran Li, Mingtong Zhang, Katherine Driggs-Campbell, Jiajun Wu, Li Fei-Fei, Yunzhu Li* <br>
   CoRL'23, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2309.16118)], [[PDF](https://arxiv.org/pdf/2309.16118.pdf)], [[Code](https://github.com/WangYixuan12/d3fields)], [[Home Page](https://robopil.github.io/d3fields/)], [[Demo](https://www.youtube.com/watch?v=yNkIOwAO3GA)]
