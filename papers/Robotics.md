@@ -48,7 +48,7 @@
 -  **RVT: Robotic View Transformer for 3D Object Manipulation** `Grasp` <br>
   Team: NVIDIA Labs <br>
   *Ankit Goyal, Jie Xu, Yijie Guo, Valts Blukis, Yu-Wei Chao, Dieter Fox* <br>
-  **CoRL (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2307.05973)] <br>
+  **CoRL (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2306.14896)], [[PDF](https://arxiv.org/pdf/2306.14896.pdf)], [[Home Page](https://robotic-view-transformer.github.io/)], [[Demo](https://www.youtube.com/watch?v=mIQN4f3KSA8)] <br>
   [[Code](https://github.com/nvlabs/rvt)] ![](https://img.shields.io/github/stars/nvlabs/rvt?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/nvlabs/rvt?style=round-square&logo=Github&logoColor=white)
 - **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** `Grasp` <br>
   Team: MIT CSAIL <br>
