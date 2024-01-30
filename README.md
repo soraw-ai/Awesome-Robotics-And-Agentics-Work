@@ -158,6 +158,9 @@ For details please refer to [Papers List](papers/Robotics.md)
   *William Shen, Ge Yang, Alan Yu, Jansen Wong, Leslie Pack Kaelbling, Phillip Isola* <br>
   **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[PDF](https://arxiv.org/abs/2308.07931)], [[Code](https://github.com/f3rm/f3rm)], [[Home Page](https://f3rm.github.io/)], [[Demo](https://f3rm.github.io/#video)]
 ### <a name="robo_navigation"></a> Navigation
+- **MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation** <br>
+  *Jiaqi Chen, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong* <br>
+  arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.07314)], [[PDF](https://arxiv.org/pdf/2401.07314.pdf)]
 - **Visual Language Maps for Robot Navigation** <br>
   *Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard* <br>
   ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Code](https://arxiv.org/pdf/2308.07931.pdf)], [[Home Page](https://vlmaps.github.io/)]
