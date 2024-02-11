@@ -54,11 +54,20 @@
   *Ankit Goyal, Jie Xu, Yijie Guo, et al., Dieter Fox* <br>
   **CoRL (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2306.14896)], [[PDF](https://arxiv.org/pdf/2306.14896.pdf)], [[Home Page](https://robotic-view-transformer.github.io/)], [[Demo](https://www.youtube.com/watch?v=mIQN4f3KSA8)] <br>
   [[Code](https://github.com/nvlabs/rvt)] ![](https://img.shields.io/github/stars/nvlabs/rvt?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/nvlabs/rvt?style=round-square&logo=Github&logoColor=white)  <br>
+- **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** `Multimodal` `Robotic Control` <br>
+  Team: Google DeepMind <br>
+  *Anthony Brohan, Noah Brown, Justice Carbajal, et al., Brianna Zitkovich* <br>
+  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.15818)], [[PDF](https://arxiv.org/pdf/2307.15818.pdf)], [[Home Page](https://robotics-transformer2.github.io/)]  <br>
 - **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** `Grasp` <br>
   Team: MIT CSAIL <br>
   *William Shen, Ge Yang, Alan Yu, et al., Phillip Isola* <br>
   **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[PDF](https://arxiv.org/abs/2308.07931)], [[Home Page](https://f3rm.github.io/)], [[Demo](https://f3rm.github.io/#video)] <br>
   [Code](https://github.com/f3rm/f3rm)] ![](https://img.shields.io/github/stars/f3rm/f3rm?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/f3rm/f3rm?style=round-square&logo=Github&logoColor=white)  <br>
+- **RT-1: Robotics Transformer for Real-World Control at Scale** `Multimodal` `Robotic Control` <br>
+  Team: Robotics at Google, Everyday Robotics <br>
+  *Anthony Brohan, Noah Brown, Justice Carbajal, et al., Brianna Zitkovich* <br>
+  arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.06817)], [[PDF](https://arxiv.org/pdf/2212.06817.pdf)], [[Home Page](https://robotics-transformer1.github.io/)], [[Demo](https://www.youtube.com/watch?v=UuKAp9a6wMs)]  <br>
+  [[Code](https://github.com/google-research/robotics_transformer)] ![](https://img.shields.io/github/stars/google-research/robotics_transformer?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/google-research/robotics_transformer?style=round-square&logo=Github&logoColor=white)  <br>
 ## <a name="robo_navigation"></a> Navigation
 - **MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation** <br>
   *Jiaqi Chen, Bingqian Lin, Ran Xu, et al., Kwan-Yee K. Wong* <br>

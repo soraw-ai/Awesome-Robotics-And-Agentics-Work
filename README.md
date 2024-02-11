@@ -149,6 +149,10 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models** <br>
   *Pushkal Katara, Zhou Xian, Katerina Fragkiadaki* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.18308)], [[PDF](https://arxiv.org/pdf/2310.18308.pdf)], [[Code](https://github.com/pushkalkatara/Gen2Sim)], [[Home Page](https://gen2sim.github.io/)]  <br>
+- **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** `Multimodal` `Robotic Control` <br>
+  Team: Google DeepMind <br>
+  *Anthony Brohan, Noah Brown, Justice Carbajal, et al., Brianna Zitkovich* <br>
+  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.15818)], [[PDF](https://arxiv.org/pdf/2307.15818.pdf)], [[Home Page](https://robotics-transformer2.github.io/)]  <br>
 - **RVT: Robotic View Transformer for 3D Object Manipulation** `Grasp` <br>
   Team: NVIDIA Labs <br>
   *Ankit Goyal, Jie Xu, Yijie Guo, et al., Dieter Fox* <br>
@@ -157,6 +161,10 @@ For details please refer to [Papers List](papers/Robotics.md)
   Team: MIT CSAIL <br>
   *William Shen, Ge Yang, Alan Yu, et al., Phillip Isola* <br>
   **CoRL'23 (Best Paper)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2308.07931)], [[PDF](https://arxiv.org/abs/2308.07931)], [[Code](https://github.com/f3rm/f3rm)], [[Home Page](https://f3rm.github.io/)], [[Demo](https://f3rm.github.io/#video)]  <br>
+- **RT-1: Robotics Transformer for Real-World Control at Scale** `Multimodal` `Robotic Control` <br>
+  Team: Robotics at Google, Everyday Robotics <br>
+  *Anthony Brohan, Noah Brown, Justice Carbajal, et al., Brianna Zitkovich* <br>
+  arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.06817)], [[PDF](https://arxiv.org/pdf/2212.06817.pdf)], [[Code](https://github.com/google-research/robotics_transformer)], [[Home Page](https://robotics-transformer1.github.io/)], [[Demo](https://www.youtube.com/watch?v=UuKAp9a6wMs)]  <br>
 ### <a name="robo_navigation"></a> Navigation
 - **MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation** <br>
   *Jiaqi Chen, Bingqian Lin, Ran Xu, et al., Kwan-Yee K. Wong* <br>
