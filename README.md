@@ -272,9 +272,15 @@ For details please refer to [Papers List](papers/Robotics.md)
   *Stephen James, Zicong Ma, David Rovick Arrojo, Andrew J. Davison* <br>
   IEEE Robotics and Automation Letters, 2019.09 [[Paper](https://arxiv.org/abs/1909.12271)], [[Code](https://github.com/stepjam/RLBench)]  <br>
 ### <a name="robo_survey"></a> Survey
+- **Real-World Robot Applications of Foundation Models: A Review** <br>
+  *Kento Kawaharazuka, Tatsuya Matsushima, Andrew Gambardella, et al., Andy Zeng* <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.05741)], [[PDF](https://arxiv.org/pdf/2402.05741.pdf)]  <br>
 - **Large Language Models for Robotics: Opportunities, Challenges, and Perspectives** <br>
   *Jiaqi Wang, Zihao Wu, Yiwei Li, et al., Shu Zhang* <br>
   arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.04334)], [[PDF](https://arxiv.org/pdf/2401.04334.pdf)]  <br>
+- **Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis** <br>
+  *Yafei Hu, Quanting Xie, Vidhi Jain, etal., Yonatan Bisk* <br>
+  arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.08782)], [[PDF](https://arxiv.org/pdf/2312.08782.pdf)]  <br>
 - **Language-conditioned Learning for Robotic Manipulation: A Survey** <br>
   *Hongkuan Zhou, Xiangtong Yao, Yuan Meng, et al., Alois Knoll* <br>
   arXiv, 2023.12 [[Paper](https://arxiv.org/abs/2312.10807)], [[PDF](https://arxiv.org/pdf/2312.10807.pdf)]  <br>
