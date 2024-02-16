@@ -49,12 +49,18 @@
   *Pushkal Katara, Zhou Xian, Katerina Fragkiadaki* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.18308)], [[PDF](https://arxiv.org/pdf/2310.18308.pdf)], [[Home Page](https://gen2sim.github.io/)] <br>
   [[Code](https://github.com/pushkalkatara/Gen2Sim)] ![](https://img.shields.io/github/stars/pushkalkatara/Gen2Sim?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/pushkalkatara/Gen2Sim?style=round-square&logo=Github&logoColor=white)  <br>
--  **RVT: Robotic View Transformer for 3D Object Manipulation** `Grasp` <br>
+- **How to Prompt Your Robot: A PromptBook for Manipulation Skills with Code as Policies** `Prompt Engineering` <br>
+  Team: Google. <br>
+  *Montserrat Gonzalez Arenas, Ted Xiao, Sumeet Singh, et al., Andy Zeng* <br>
+  CoRL'23 workshop, 2023.10 [[Paper](https://openreview.net/forum?id=1aRNtmy5zX)], [[PDF](https://openreview.net/pdf?id=1aRNtmy5zX)] <br>
+  - **Blogs**
+    - [谷歌机器人研究员教你如何写prompt来完成机器人任务](https://zhuanlan.zhihu.com/p/678734754) By 智园AI-robotics · Jan 19, 2024 
+- **RVT: Robotic View Transformer for 3D Object Manipulation** `Grasp` <br>
   Team: NVIDIA Labs <br>
   *Ankit Goyal, Jie Xu, Yijie Guo, et al., Dieter Fox* <br>
   **CoRL (Oral)**, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2306.14896)], [[PDF](https://arxiv.org/pdf/2306.14896.pdf)], [[Home Page](https://robotic-view-transformer.github.io/)], [[Demo](https://www.youtube.com/watch?v=mIQN4f3KSA8)] <br>
   [[Code](https://github.com/nvlabs/rvt)] ![](https://img.shields.io/github/stars/nvlabs/rvt?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/nvlabs/rvt?style=round-square&logo=Github&logoColor=white)  <br>
-- **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** `Multimodal` `Robotic Control` <br>
+- **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** `Multimodal` `Robotic Control` `VLA` <br>
   Team: Google DeepMind <br>
   *Anthony Brohan, Noah Brown, Justice Carbajal, et al., Brianna Zitkovich* <br>
   arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.15818)], [[PDF](https://arxiv.org/pdf/2307.15818.pdf)], [[Home Page](https://robotics-transformer2.github.io/)]  <br>
@@ -68,6 +74,10 @@
   *Anthony Brohan, Noah Brown, Justice Carbajal, et al., Brianna Zitkovich* <br>
   arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.06817)], [[PDF](https://arxiv.org/pdf/2212.06817.pdf)], [[Home Page](https://robotics-transformer1.github.io/)], [[Demo](https://www.youtube.com/watch?v=UuKAp9a6wMs)]  <br>
   [[Code](https://github.com/google-research/robotics_transformer)] ![](https://img.shields.io/github/stars/google-research/robotics_transformer?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/google-research/robotics_transformer?style=round-square&logo=Github&logoColor=white)  <br>
+- **Predicting Stable Configurations for Semantic Placement of Novel Objects** `Grasp` <br>
+  Team: NVIDIA. <br>
+  *Chris Paxton, Chris Xie, Tucker Hermans, Dieter Fox* <br>
+  CoRL'22, arXiv, 2021.08 [[Paper](https://arxiv.org/abs/2108.12062)], [[PDF](https://arxiv.org/pdf/2108.12062.pdf)] <br>
 ## <a name="robo_navigation"></a> Navigation
 - **MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation** <br>
   *Jiaqi Chen, Bingqian Lin, Ran Xu, et al., Kwan-Yee K. Wong* <br>
@@ -92,7 +102,7 @@
   *Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.12015)], [[PDF](https://arxiv.org/pdf/2311.12015.pdf)], [[Home Page](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)]  <br>
   [[Code](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts)] ![](https://img.shields.io/github/stars/microsoft/ChatGPT-Robot-Manipulation-Prompts?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/microsoft/ChatGPT-Robot-Manipulation-Prompts?style=round-square&logo=Github&logoColor=white)  <br>
-- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Motion Planning`,`Multimodal` <br>
+- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Motion Planning`, `Multimodal`, `PoT` <br>
   Team: Stanford University, Fei-Fei Li. <br>
   *Wenlong Huang, Chen Wang, Ruohan Zhang, et al., Li Fei-Fei* <br>
   **CoRL'23(Oral)**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)], [[PDF](https://arxiv.org/pdf/2307.05973.pdf)], [[Home Page](https://voxposer.github.io/)], [[Demo](https://www.youtube.com/watch?v=Yvn4eR05A3M)]  <br>
@@ -149,7 +159,7 @@
   *Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh* <br>
   ICLR'23, arXiv, 2023.02 [[Paper](https://arxiv.org/abs/2303.00001)], [[PDF](https://arxiv.org/pdf/2303.00001.pdf)]<br>
   [[Code](https://github.com/minaek/reward_design_with_llms)] ![](https://img.shields.io/github/stars/minaek/reward_design_with_llms?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/minaek/reward_design_with_llms?style=round-square&logo=Github&logoColor=white)  <br>
-- **Code as Policies: Language Model Programs for Embodied Control** `Task Planning` <br>
+- **Code as Policies: Language Model Programs for Embodied Control** `Task Planning`, `PoT` <br>
   Team: Robotics at Google. <br>
   *Jacky Liang, Wenlong Huang, Fei Xia, et al., Andy Zeng* <br>
   ICRA'23, CoRL openreview, 2022,11 [[Paper](https://ieeexplore.ieee.org/abstract/document/10160591?casa_token=nxmzysLMWckAAAAA:6N46qqpcOV4xMxqnmJUxm6RlX17xaXcK8efi_FiYvjLgvNu_VFy24OGOFQO8vE1-JZAp5xU)], [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160591)], [[Code](https://github.com/google-research/google-research/tree/master/code_as_policies)], [[Home Page](https://code-as-policies.github.io/)] <br>

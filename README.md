@@ -31,67 +31,70 @@ For details please refer to [Papers List](papers/Agents.md)
 ### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
 - **AgentTuning: Enabling Generalized Agent Abilities for LLMs** <br>
   *Aohan Zeng, Mingdao Liu, Rui Lu, et al., Jie Tang* <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12823)], [[Code](https://github.com/THUDM/AgentTuning)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12823)], [[Code](https://github.com/THUDM/AgentTuning)] <br>
 - **MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** <br>
   *Dingyao Yu, Kaitao Song, Peiling Lu, et al., Jiang Bian* <br>
   Team: Microsoft <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.11954)], [[Code](https://github.com/microsoft/muzic)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.11954)], [[Code](https://github.com/microsoft/muzic)] <br>
 - **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** <br>
   *Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang* <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.04406)], [[Code](https://github.com/andyz245/LanguageAgentTreeSearch)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.04406)], [[Code](https://github.com/andyz245/LanguageAgentTreeSearch)] <br>
 - **SmartPlay : A Benchmark for LLMs as Intelligent Agents** <br>
   *Yue Wu, Xuan Tang, Tom M. Mitchell, Yuanzhi Li* <br>
   Team: Microsoft <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.01557)], [[Code](https://github.com/microsoft/SmartPlay)]
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.01557)], [[Code](https://github.com/microsoft/SmartPlay)] <br>
 - **A Survey on Large Language Model based Autonomous Agents** <br>
   *Lei Wang, Chen Ma, Xueyang Feng, et al., Ji-Rong Wen* <br>
-  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.11432)], [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)]
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.11432)], [[Code](https://github.com/Paitesanshi/LLM-Agent-Survey)] <br>
 - **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation** <br>
   *Jiaju Lin, Haoran Zhao, Aochi Zhang, et al., Qin Chen* <br>
-  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.04026)], [[Code](https://github.com/py499372727/AgentSims)]
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.04026)], [[Code](https://github.com/py499372727/AgentSims)] <br>
 - **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework** <br>
   *Sirui Hong, Xiawu Zheng, Jonathan Chen, et al., Chenglin Wu* <br>
-  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.00352)], [[Code](https://github.com/geekan/MetaGPT)]
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.00352)], [[Code](https://github.com/geekan/MetaGPT)] <br>
 - **WebArena: A Realistic Web Environment for Building Autonomous Agents** <br>
   *Shuyan Zhou, Frank F. Xu, Hao Zhu, et al., Graham Neubig* <br>
-  arXiv, 2023.07. [[Paper](https://arxiv.org/abs/2307.13854)], [[Code](https://github.com/web-arena-x/webarena)]
+  arXiv, 2023.07. [[Paper](https://arxiv.org/abs/2307.13854)], [[Code](https://github.com/web-arena-x/webarena)] <br>
 - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration** <br>
   *Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, et al., Heng Ji* <br>
-  arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.05300)], [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
+  arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.05300)], [[Code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)] <br>
 - **Minimum Levels of Interpretability for Artificial Moral Agents** <br>
   *Avish Vijayaraghavan, Cosmin Badea* <br>
-  arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.00660)] 
+  arXiv, 2023.07. [[Paper](https://arxiv.org/pdf/2307.00660)]  <br>
+- **Reflexion: Language Agents with Verbal Reinforcement Learning** <br>
+  *Noah Shinn, Federico Cassano, Edward Berman, et al., Shunyu Yao* <br>
+  NeurIPS'23, arXiv, 2023.05. [[Paper](https://arxiv.org/abs/2303.11366)], [[PDF](https://arxiv.org/pdf/2303.11366.pdf)], [[Code](https://github.com/noahshinn/reflexion)] <br>
 - **Decision-Oriented Dialogue for Human-AI Collaboration** <br>
   *Jessy Lin, Nicholas Tomlin, Jacob Andreas, Jason Eisner* <br>
-  arXiv, 2023.05. [[Paper](https://arxiv.org/pdf/2305.20076)], [[Code](https://github.com/jlin816/dialop)]
+  arXiv, 2023.05. [[Paper](https://arxiv.org/pdf/2305.20076)], [[Code](https://github.com/jlin816/dialop)] <br>
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face** <br>
   *Yongliang Shen, Kaitao Song, Xu Tan, et al., Yueting Zhuang* <br>
-  arXiv, 2023.05. [[Paper](https://arxiv.org/abs/2303.17580)]
+  arXiv, 2023.05. [[Paper](https://arxiv.org/abs/2303.17580)] <br>
 - **Interactive Natural Language Processing** <br>
   *Zekun Wang, Ge Zhang, Kexin Yang, et al., Jie Fu* <br>
-  arXiv, 2023.05. [[Paper](https://arxiv.org/abs/2305.13246)]
+  arXiv, 2023.05. [[Paper](https://arxiv.org/abs/2305.13246)] <br>
 - **Introspective Tips: Large Language Model for In-Context Decision Making** <br>
   *Liting Chen, Lu Wang, Hang Dong, et al., Dongmei Zhang* <br>
-  arXiv, 2023.05. [[Paper](https://arxiv.org/pdf/2305.11598)]
+  arXiv, 2023.05. [[Paper](https://arxiv.org/pdf/2305.11598)] <br>
 - **ExpeL: LLM Agents Are Experiential Learners** <br>
   *Andrew Zhao, Daniel Huang, Quentin Xu, et al., Gao Huang* <br>
-  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.10144)] 
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.10144)] <br>
 - **Communicative Agents for Software Development** <br>
   *Chen Qian, Xin Cong, Wei Liu, et al., Maosong Sun* <br>
-  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.07924)] 
+  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.07924)] <br>
 - **Cognitive Architectures for Language Agents** <br>
   *Theodore Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths* <br>
-  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.02427)] 
+  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.02427)] <br>
 - **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents** <br>
   *Weize Chen, Yusheng Su, Jingwei Zuo, et al., Jie Zhou* <br>
-  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.10848)] 
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.10848)] <br>
 - **Agents: An Open-source Framework for Autonomous Language Agents** <br>
   *Wangchunshu Zhou, Yuchen Eleanor Jiang, Long Li, et al., Mrinmaya Sachan* <br>
-  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07870)] 
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07870)] <br>
 - **The Rise and Potential of Large Language Model Based Agents: A Survey** <br>
   *Zhiheng Xi, Wenxiang Chen, Xin Guo, et al., Tao Gui* <br>
   Team: NLP group, Fudan University <br>
-  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07864)], [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2309.07864)], [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)] <br>
 
 
 ### <a name="traditional_auto_agents"></a> Traditional Autonomous Agents
@@ -149,7 +152,11 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models** <br>
   *Pushkal Katara, Zhou Xian, Katerina Fragkiadaki* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.18308)], [[PDF](https://arxiv.org/pdf/2310.18308.pdf)], [[Code](https://github.com/pushkalkatara/Gen2Sim)], [[Home Page](https://gen2sim.github.io/)]  <br>
-- **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** `Multimodal` `Robotic Control` <br>
+- **How to Prompt Your Robot: A PromptBook for Manipulation Skills with Code as Policies** `Prompt Engineering` <br>
+  Team: Google. <br>
+  *Montserrat Gonzalez Arenas, Ted Xiao, Sumeet Singh, et al., Andy Zeng* <br>
+  CoRL'23 workshop, 2023.10 [[Paper](https://openreview.net/forum?id=1aRNtmy5zX)], [[PDF](https://openreview.net/pdf?id=1aRNtmy5zX)] <br>
+- **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** `Multimodal` `Robotic Control` `VLA` <br>
   Team: Google DeepMind <br>
   *Anthony Brohan, Noah Brown, Justice Carbajal, et al., Brianna Zitkovich* <br>
   arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.15818)], [[PDF](https://arxiv.org/pdf/2307.15818.pdf)], [[Home Page](https://robotics-transformer2.github.io/)]  <br>
@@ -165,6 +172,10 @@ For details please refer to [Papers List](papers/Robotics.md)
   Team: Robotics at Google, Everyday Robotics <br>
   *Anthony Brohan, Noah Brown, Justice Carbajal, et al., Brianna Zitkovich* <br>
   arXiv, 2022.12 [[Paper](https://arxiv.org/abs/2212.06817)], [[PDF](https://arxiv.org/pdf/2212.06817.pdf)], [[Code](https://github.com/google-research/robotics_transformer)], [[Home Page](https://robotics-transformer1.github.io/)], [[Demo](https://www.youtube.com/watch?v=UuKAp9a6wMs)]  <br>
+- **Predicting Stable Configurations for Semantic Placement of Novel Objects** `Grasp` <br>
+  Team: NVIDIA. <br>
+  *Chris Paxton, Chris Xie, Tucker Hermans, Dieter Fox* <br>
+  CoRL'22, arXiv, 2021.08 [[Paper](https://arxiv.org/abs/2108.12062)], [[PDF](https://arxiv.org/pdf/2108.12062.pdf)] <br>
 ### <a name="robo_navigation"></a> Navigation
 - **MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation** <br>
   *Jiaqi Chen, Bingqian Lin, Ran Xu, et al., Kwan-Yee K. Wong* <br>
@@ -187,7 +198,7 @@ For details please refer to [Papers List](papers/Robotics.md)
   Team: Microsoft. <br>
   *Naoki Wake, Atsushi Kanehira, Kazuhiro Sasabuchi, Jun Takamatsu, Katsushi Ikeuchi* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.12015)], [[PDF](https://arxiv.org/pdf/2311.12015.pdf)], [[Code](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts)], [[Home Page](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)]  <br>
-- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Motion Planning`, `Multimodal` <br>
+- **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** `Motion Planning`, `Multimodal`, `PoT` <br>
   Team: Stanford University, Fei-Fei Li. <br>
   *Wenlong Huang, Chen Wang, Ruohan Zhang, et al., Li Fei-Fei* <br>
   **CoRL'23(Oral)**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2307.05973)], [[PDF](https://arxiv.org/pdf/2307.05973.pdf)], [[Code](https://github.com/huangwl18/VoxPoser)], [[Home Page](https://voxposer.github.io/)], [[Demo](https://www.youtube.com/watch?v=Yvn4eR05A3M)]   <br>
@@ -236,7 +247,7 @@ For details please refer to [Papers List](papers/Robotics.md)
   Team: Stanford University, Deepmind. <br>
   *Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh* <br>
   ICLR'23, arXiv, 2023.02 [[Paper](https://arxiv.org/abs/2303.00001)], [[PDF](https://arxiv.org/pdf/2303.00001.pdf)], [[Code](https://github.com/minaek/reward_design_with_llms)]<br>
-- **Code as Policies: Language Model Programs for Embodied Control** `Task Planning` <br>
+- **Code as Policies: Language Model Programs for Embodied Control** `Task Planning`, `PoT` <br>
   Team: Robotics at Google. <br>
   *Jacky Liang, Wenlong Huang, Fei Xia, et al., Andy Zeng* <br>
   ICRA'23, CoRL openreview, 2022,11 [[Paper](https://ieeexplore.ieee.org/abstract/document/10160591?casa_token=nxmzysLMWckAAAAA:6N46qqpcOV4xMxqnmJUxm6RlX17xaXcK8efi_FiYvjLgvNu_VFy24OGOFQO8vE1-JZAp5xU)], [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160591)], [[Code](https://github.com/google-research/google-research/tree/master/code_as_policies)], [[Home Page](https://code-as-policies.github.io/)] <br>
@@ -389,6 +400,15 @@ If you find this repository useful, please consider citing this list:
     year = {2023},
 }
 ```
+
+## Abbreviations List
+
+| Symbol | Full Name             | Description  |
+|--------|-----------------------|---|
+| LLM    | Large Language Model  |   |
+| VLM    | Vision Language Model |   |
+| PoT    |    Program of Thoughts                   |   |
+
 
 ## References
 1. [MetaGPT作者深度解析直播回放](https://www.bilibili.com/video/BV1Ru411V7XL)
