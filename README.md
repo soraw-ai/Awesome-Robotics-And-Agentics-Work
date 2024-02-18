@@ -6,10 +6,12 @@
 
 * [About Autonomous Agents](#about)
 * [Autonomous Agents Papers](#autonomous_agents_papers)
-	* [LLM-Based Autonomous Agents](#llm_based_auto_agents)
-	* [Traditional Autonomous Agents](#traditional_auto_agents)
-	* [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
-	* [Consciousness](#consciousness)
+  * [LLM-Based Autonomous Agents](#llm_based_auto_agents)
+  * [Traditional Autonomous Agents](#traditional_auto_agents)
+  * [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
+  * [Consciousness](#consciousness)
+  * [Dataset/Benchmark/Simulator/Tool](#ben_sim_tool)
+  * [Foundation Model](#foundation_model)
 * [Robotics Papers](#robotics_papers)
   * [Data/Simulation Argument](#robo_data_sim_argu)
   * [Manipulation](#robo_manipulation)
@@ -29,6 +31,9 @@
 For details please refer to [Papers List](papers/Agents.md)
 
 ### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
+- **LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents** `Embodied Agents` <br>
+  *Jae-Woo Choi, Youngwoo Yoon, Hyobin Ong, Jaehong Kim, Minsu Jang* <br>
+  ICLR'24, arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.08178)], [[PDF](https://arxiv.org/pdf/2402.08178.pdf)], [[Code](https://github.com/lbaa2022/LLMTaskPlanning)], [[Home Page](https://choi-jaewoo.github.io/LoTa-Bench/)] <br>
 - **AgentTuning: Enabling Generalized Agent Abilities for LLMs** <br>
   *Aohan Zeng, Mingdao Liu, Rui Lu, et al., Jie Tang* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12823)], [[Code](https://github.com/THUDM/AgentTuning)] <br>
@@ -114,6 +119,18 @@ For details please refer to [Papers List](papers/Agents.md)
 - **It Takes Two to Tango: Towards Theory of AI's Mind** <br>
   *Patrick Butlin, Robert Long, Eric Elmoznino, et al., Rufin VanRullen* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.08708)] 
+
+### <a name="ben_sim_tool"></a> Dataset/Benchmark/Simulator/Tool
+- **Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications** <br>
+  *Negar Arabzadeh, Julia Kiseleva, Qingyun Wu, et al., Charles Clarke* <br>
+  Team: Univerity of Waterloo, Microsoft <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.09015)], [[PDF](https://arxiv.org/pdf/2310.17274.pdf)], [[Code (Notebook)](https://github.com/microsoft/autogen/blob/main/notebook/agenteval_cq_math.ipynb)]  <br>
+
+### <a name="foundation_model"></a> Foundation Model
+- **An Interactive Agent Foundation Model** <br>
+  *Zane Durante, Bidipta Sarkar, Ran Gong, et al., Qiuyuan Huang* <br>
+  Team: Stanford University Fei-Fei Li, Microsoft <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.05929)], [[PDF](https://arxiv.org/pdf/2402.05929.pdf)], [[Home Page](https://agentfoundationmodel.github.io/)] <br>
 
 ## <a name="robotics_papers"></a> Robotics Papers
 For details please refer to [Papers List](papers/Robotics.md)

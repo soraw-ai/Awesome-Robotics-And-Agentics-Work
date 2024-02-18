@@ -1,5 +1,17 @@
 # Autonomous Agents Paper
-## LLM-Based Autonomous Agents
+* [Autonomous Agents Papers](#autonomous_agents_papers)
+  * [LLM-Based Autonomous Agents](#llm_based_auto_agents)
+  * [Traditional Autonomous Agents](#traditional_auto_agents)
+  * [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
+  * [Consciousness](#consciousness)
+  * [Dataset/Benchmark/Simulator/Tool](#ben_sim_tool)
+  * [Foundation Model](#foundation_model)
+  
+## <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
+- **LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents** `Embodied Agents` <br>
+  *Jae-Woo Choi, Youngwoo Yoon, Hyobin Ong, Jaehong Kim, Minsu Jang* <br>
+  ICLR'24, arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.08178)], [[PDF](https://arxiv.org/pdf/2402.08178.pdf)], [[Home Page](https://choi-jaewoo.github.io/LoTa-Bench/)] <br>
+  [[Code](https://github.com/lbaa2022/LLMTaskPlanning)] ![](https://img.shields.io/github/stars/lbaa2022/LLMTaskPlanning?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/lbaa2022/LLMTaskPlanning?style=round-square&logo=Github&logoColor=white) <br>
 - **AgentTuning: Enabling Generalized Agent Abilities for LLMs** <br>
   *Aohan Zeng, Mingdao Liu, Rui Lu, Bowen Wang, Xiao Liu, Yuxiao Dong, Jie Tang* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12823)] <br>
@@ -83,7 +95,7 @@
   *Liting Chen, Lu Wang, Hang Dong, Yali Du, Jie Yan, Fangkai Yang, Shuang Li, Pu Zhao, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang* <br>
   arXiv, 2023.05 [[Paper](https://arxiv.org/abs/2305.11598)] <br>
 
-## Traditional Autonomous Agents
+## <a name="traditional_auto_agents"></a> Traditional Autonomous Agents
 - **Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts** <br>
   *Patrick Hemmer, Sebastian Schellhammer, Michael Vössing, Johannes Jakubik, Gerhard Satzger* <br>
   arXiv, 2022.06 [[Paper](https://arxiv.org/abs/2206.07948)], IJCAI’22 [[Paper](https://www.ijcai.org/proceedings/2022/0344.pdf)] <br>
@@ -97,9 +109,26 @@
   *Liting Chen, Lu Wang, Hang Dong, Yali Du, Jie Yan, Fangkai Yang, Shuang Li, Pu Zhao, Si Qin, Saravan Rajmohan, Qingwei Lin, Dongmei Zhang* <br>
   arXiv, 2017.03 [[Paper](https://arxiv.org/abs/1704.00717)] <br>
 
-## LLM-based Swarm Intelligence 
+## <a name="llm_based_swarm_intelligence"></a> LLM-based Swarm Intelligence
 - **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf** <br>
   *Yuzhuang Xu, Shuo Wang, Peng Li, Fuwen Luo, Xiaolong Wang, Weidong Liu, Yang Liu* <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.04658)] <br>
   - **Blogs**
     - [清华大学团队让7个大模型玩起狼人杀并发现新的涌现策略行为](https://mp.weixin.qq.com/s/viCzmBJMFmzRh1B3r92d4Q) By 杜伟、陈萍 · Sep 25, 2023
+
+## <a name="consciousness"></a> Consciousness
+- **It Takes Two to Tango: Towards Theory of AI's Mind** <br>
+  *Patrick Butlin, Robert Long, Eric Elmoznino, et al., Rufin VanRullen* <br>
+  arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.08708)] 
+
+## <a name="ben_sim_tool"></a> Dataset/Benchmark/Simulator/Tool
+- **Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications** <br>
+  *Negar Arabzadeh, Julia Kiseleva, Qingyun Wu, et al., Charles Clarke* <br>
+  Team: Univerity of Waterloo, Microsoft <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.09015)], [[PDF](https://arxiv.org/pdf/2310.17274.pdf)], [[Code (Notebook)](https://github.com/microsoft/autogen/blob/main/notebook/agenteval_cq_math.ipynb)]  <br>
+
+### <a name="foundation_model"></a> Foundation Model
+- **An Interactive Agent Foundation Model** <br>
+  *Zane Durante, Bidipta Sarkar, Ran Gong, et al., Qiuyuan Huang* <br>
+  Team: Stanford University Fei-Fei Li, Microsoft <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.05929)], [[PDF](https://arxiv.org/pdf/2402.05929.pdf)], [[Home Page](https://agentfoundationmodel.github.io/)] <br>
