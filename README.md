@@ -228,7 +228,11 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **Eureka: Human-Level Reward Design via Coding Large Language Models** `Reward Desgin` <br>
   Team: NVIDIA, UPenn. <br>
   *Yecheng Jason Ma, William Liang, Guanzhi Wang, et al., Anima Anandkumar* <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12931)], [[PDF](https://arxiv.org/pdf/2310.12931.pdf)], [[Code](https://github.com/eureka-research/Eureka)], [[Home Page](https://eureka-research.github.io/)]  <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12931)], [[PDF](https://arxiv.org/pdf/2310.12931.pdf)], [[Code](https://github.com/eureka-research/Eureka)], [[Home Page](https://eureka-research.github.io/)] <br>
+- **RoboCLIP: One Demonstration is Enough to Learn Robot Policies** `Learning From Demo` <br>
+  Team: UC Berkeley, Stanford University, Google  <br>
+  *Sumedh A Sontakke, Jesse Zhang, Sébastien M. R. Arnold, et al., Laurent Itti* <br>
+  NeurIPS'23, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.07899)], [[PDF](https://arxiv.org/pdf/2310.07899.pdf)], [[Code](https://github.com/sumedh7/RoboCLIP/tree/main)], [[Home Page](https://sites.google.com/view/roboclip/home)], [[Demo](https://youtu.be/NEWQsSAON7I)] <br>
 - **Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning** `Reward Desgin` <br>
   *Tianbao Xie, Siheng Zhao, Chen Henry Wu, et al., Tao Yu* <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.11489)], [[PDF](https://arxiv.org/pdf/2309.11489.pdf)], [[Code](https://github.com/xlang-ai/text2reward)], [[Home Page](https://text-to-reward.github.io/)]  <br>
@@ -399,13 +403,12 @@ This repository provides a set of ROS 2 packages to integrate llama.cpp into ROS
 - [框架速度：SuperAGI](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team · Jun 5, 2023
 - [AI革新之路：14篇AI Agents论文，探讨人工智能未来](https://mp.weixin.qq.com/s/apSIgDlU6szfEuKSvvDXGw) by AMiner科技 · Sep 2, 2023
 - [AI Agent+to B，下一个入口级平台机会｜甲子光年](https://mp.weixin.qq.com/s/Lwr8CnJ0-Ky2md1j5TfW7w) by 武静静 · Sep 15, 2023
-- `Video` [Harrison Chase - Agents Masterclass from LangChain Founder (LLM Bootcamp)](https://www.youtube.com/watch?v=DWUdGhRrv2c) by The Full Stack · May 25, 2023  - Harrison Chase （LangChain CEO）25分钟关于GPT Agents的tutorial 
+- `Video` [Harrison Chase - Agents Masterclass from LangChain Founder (LLM Bootcamp)](https://www.youtube.com/watch?v=DWUdGhRrv2c) by The Full Stack · May 25, 2023  - Harrison Chase （LangChain CEO）25分钟关于GPT Agents的tutorial
 
-
+----
 ## Acknowledgement
 - [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) by Haoran Duan
 
-----
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```

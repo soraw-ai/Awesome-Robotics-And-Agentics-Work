@@ -119,6 +119,11 @@
   *Yecheng Jason Ma, William Liang, Guanzhi Wang, et al., Anima Anandkumar* <br>
   arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.12931)], [[PDF](https://arxiv.org/pdf/2310.12931.pdf)], [[Home Page](https://eureka-research.github.io/)]  <br>
   [[Code](https://github.com/eureka-research/Eureka)] ![](https://img.shields.io/github/stars/eureka-research/Eureka?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/eureka-research/Eureka?style=round-square&logo=Github&logoColor=white)  <br>
+- **RoboCLIP: One Demonstration is Enough to Learn Robot Policies** `Learning From Demo` <br>
+  Team: UC Berkeley, Stanford University, Google  <br>
+  *Sumedh A Sontakke, Jesse Zhang, Sébastien M. R. Arnold, et al., Laurent Itti* <br>
+  NeurIPS'23, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.07899)], [[PDF](https://arxiv.org/pdf/2310.07899.pdf)], [[Home Page](https://sites.google.com/view/roboclip/home)], [[Demo](https://youtu.be/NEWQsSAON7I)] <br>
+  [[Code](https://github.com/sumedh7/RoboCLIP/tree/main)] ![](https://img.shields.io/github/stars/sumedh7/RoboCLIP?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/sumedh7/RoboCLIP?style=round-square&logo=Github&logoColor=white)  <br>
 - **ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning** <br>
   *Qiao Gu, Alihusein Kuwajerwala, Sacha Morin, et al., Liam Paull* <br>
   CoRL'23 workshop, arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.16650)], [[PDF](https://arxiv.org/pdf/2309.16650.pdf)], [[Code](https://github.com/HybridRobotics/prompt2walk)], [[Home Page](https://prompt2walk.github.io/)]  <br>
