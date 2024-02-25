@@ -325,6 +325,13 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **Robot Learning in the Era of Foundation Models: A Survey** <br>
   *Xuan Xiao, Jiahang Liu, Zhipeng Wang, et al., Shuo Jiang* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.14379)], [[PDF](https://arxiv.org/pdf/2311.14379.pdf)]  <br>
+- **Recent Advances in Robot Learning from Demonstration** <br>
+  *Harish Ravichandar, Athanasios S. Polydoros, Sonia Chernova, Aude Billard <br>
+  Annual Review of Control, Robotics, and Autonomous Systems, 2020.05 [[Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-100819-063206)], [[PDF](https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-100819-063206)]  <br>
+
+  
+
+
 ### <a name="robo_uncategorized"></a> Uncategorized
 
 ## <a name="product"></a> Autonomous Agents Product
