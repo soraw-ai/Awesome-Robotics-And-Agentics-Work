@@ -291,18 +291,6 @@ For details please refer to [Papers List](papers/Robotics.md)
   Team: Robotics at Google, Everyday Robots. <br>
   *Jesse Zhang, Jiahui Zhang, Karl Pertsch, et al., Joseph J. Lim* <br>
   **CoRL'23(Oral)**, arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.10021)], [[PDF](https://arxiv.org/pdf/2310.10021.pdf)], [[Code](https://github.com/clvrai/boss)], [[Home Page](https://clvrai.github.io/boss/)] <br>
-### <a name="robo_ben_sim_tool"></a> Dataset/Benchmark/Simulator/Tool
-- **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** <br>
-  Team: DeepMind <br>
-  *Open X-Embodiment Collaboration, et al.* <br>
-  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.08864)], [[PDF](https://arxiv.org/pdf/2310.08864.pdf)], [[Code](https://github.com/arnold-benchmark/arnold)], [[Home Page](https://robotics-transformer-x.github.io/)]  <br>
-- **ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes** <br>
-  *Ran Gong, Jiangyong Huang, Yizhou Zhao, et al., Siyuan Huang* <br>
-  ICCV'23, 2023.04 [[Paper](https://arxiv.org/abs/2304.04321)], [[PDF](https://arxiv.org/pdf/2304.04321.pdf)], [[Code](https://github.com/google-deepmind/open_x_embodiment)]  <br>
-- **RLBench: The Robot Learning Benchmark & Learning Environment** <br>
-  Team: NVlabs NVIDIA <br>
-  *Stephen James, Zicong Ma, David Rovick Arrojo, Andrew J. Davison* <br>
-  IEEE Robotics and Automation Letters, 2019.09 [[Paper](https://arxiv.org/abs/1909.12271)], [[Code](https://github.com/stepjam/RLBench)]  <br>
 ### <a name="robo_survey"></a> Survey
 - **Real-World Robot Applications of Foundation Models: A Review** <br>
   *Kento Kawaharazuka, Tatsuya Matsushima, Andrew Gambardella, et al., Andy Zeng* <br>
@@ -328,7 +316,22 @@ For details please refer to [Papers List](papers/Robotics.md)
 - **Recent Advances in Robot Learning from Demonstration** <br>
   *Harish Ravichandar, Athanasios S. Polydoros, Sonia Chernova, Aude Billard <br>
   Annual Review of Control, Robotics, and Autonomous Systems, 2020.05 [[Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-100819-063206)], [[PDF](https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-100819-063206)]  <br>
-
+### <a name="robo_ben_sim_tool"></a> Dataset/Benchmark/Simulator/Tool
+- **Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots** `Data Collection Tool` <br>
+  Team: Stanford University <br>
+  *Cheng Chi, Zhenjia Xu, Chuer Pan, et al., Shuran Song* <br>
+  arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.10329)], [[PDF](https://arxiv.org/pdf/2402.10329.pdf)], [[Code](https://github.com/real-stanford/universal_manipulation_interface)], [[Home Page](https://umi-gripper.github.io/)]  <br>
+- **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** <br>
+  Team: DeepMind <br>
+  *Open X-Embodiment Collaboration, et al.* <br>
+  arXiv, 2023.10 [[Paper](https://arxiv.org/abs/2310.08864)], [[PDF](https://arxiv.org/pdf/2310.08864.pdf)], [[Code](https://github.com/arnold-benchmark/arnold)], [[Home Page](https://robotics-transformer-x.github.io/)]  <br>
+- **ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes** <br>
+  *Ran Gong, Jiangyong Huang, Yizhou Zhao, et al., Siyuan Huang* <br>
+  ICCV'23, 2023.04 [[Paper](https://arxiv.org/abs/2304.04321)], [[PDF](https://arxiv.org/pdf/2304.04321.pdf)], [[Code](https://github.com/google-deepmind/open_x_embodiment)]  <br>
+- **RLBench: The Robot Learning Benchmark & Learning Environment** <br>
+  Team: NVlabs NVIDIA <br>
+  *Stephen James, Zicong Ma, David Rovick Arrojo, Andrew J. Davison* <br>
+  IEEE Robotics and Automation Letters, 2019.09 [[Paper](https://arxiv.org/abs/1909.12271)], [[Code](https://github.com/stepjam/RLBench)]  <br>
   
 
 
