@@ -218,6 +218,10 @@
   *Harish Ravichandar, Athanasios S. Polydoros, Sonia Chernova, Aude Billard <br>
   Annual Review of Control, Robotics, and Autonomous Systems, 2020.05 [[Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-100819-063206)], [[PDF](https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-100819-063206)]  <br>
 ## <a name="robo_ben_sim_tool"></a> Dataset/Benchmark/Simulator/Tool
+- **BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation** `Benchmark` <br>
+  Team: Stanford University, Fei-fei Li <br>
+  *Chengshu Li, Ruohan Zhang, Josiah Wong, et al., Li Fei-Fei* <br>
+  CoRL'22 (preliminary version), arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.09227)], [[PDF](https://arxiv.org/pdf/2403.09227.pdf)], [[Home Page](https://behavior.stanford.edu/)]  <br>
 - **Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots** `Data Collection Tool` <br>
   Team: Stanford University <br>
   *Cheng Chi, Zhenjia Xu, Chuer Pan, et al., Shuran Song* <br>
