@@ -201,6 +201,14 @@ For details please refer to [Papers List](papers/Robotics.md)
   *Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard* <br>
   ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Code](https://arxiv.org/pdf/2308.07931.pdf)], [[Home Page](https://vlmaps.github.io/)]  <br>
 ### <a name="robo_planning"></a> Planning
+- **DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation** `Motion Planning` <br>
+  Team: Fei-Fei Li, Stanford University. <br>
+  *Chen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, C. Karen Liu* <br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.07788)], [[PDF](https://arxiv.org/pdf/2403.07788.pdf)], [[Code](https://github.com/j96w/DexCap)], [[Home Page](https://dex-cap.github.io/)], [[Demo](https://dex-cap.github.io/)]  <br>
+- **RT-H: Action Hierarchies Using Language** `Task Planning` <br>
+  Team: Google DeepMind, Stanford University. <br>
+  *Suneel Belkhale, Tianli Ding, Ted Xiao, et al., Dorsa Sadigh* <br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.01823)], [[PDF](https://arxiv.org/pdf/2403.01823.pdf)], [[Home Page](https://rt-hierarchy.github.io/)], [[Demo](https://rt-hierarchy.github.io/)]  <br>
 - **RePLan: Robotic Replanning with Perception and Language Models** `Motion Planning`,`Multimodal` <br>
   *Marta Skreta, Zihan Zhou, Jia Lin Yuan, et al., Animesh Garg* <br>
   arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.04157)], [[PDF](https://arxiv.org/pdf/2401.04157.pdf)], [[Home Page](https://replan-lm.github.io/replan.github.io/)], [[Demo](https://youtu.be/mgqR-vLsH0E)]  <br>
