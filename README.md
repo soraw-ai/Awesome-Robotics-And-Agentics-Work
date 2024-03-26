@@ -31,6 +31,12 @@
 For details please refer to [Papers List](papers/Agents.md)
 
 ### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
+- **LLM Agent Operating System** `Agents OS` <br>
+  *Kai Mei, Zelong Li, Shuyuan Xu, et al., Yongfeng Zhang* <br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.16971)], [[PDF](https://arxiv.org/pdf/2403.16971.pdf)], [[Code](https://github.com/agiresearch/AIOS)] <br>
+- **Learning to Use Tools via Cooperative and Interactive Agents** <br>
+  *Zhengliang Shi, Shen Gao, Xiuyi Chen, et al., Zhaochun Ren* <br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.03031)], [[PDF](https://arxiv.org/pdf/2403.03031.pdf)] <br>
 - **LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents** `Embodied Agents` <br>
   *Jae-Woo Choi, Youngwoo Yoon, Hyobin Ong, Jaehong Kim, Minsu Jang* <br>
   ICLR'24, arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.08178)], [[PDF](https://arxiv.org/pdf/2402.08178.pdf)], [[Code](https://github.com/lbaa2022/LLMTaskPlanning)], [[Home Page](https://choi-jaewoo.github.io/LoTa-Bench/)] <br>
