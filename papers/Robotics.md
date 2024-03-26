@@ -7,6 +7,7 @@
   * [Task Adaptation](#robo_task_adapt)
   * [Dataset/Benchmark/Simulator/Tool](#robo_ben_sim_tool)
   * [Survey](#robo_survey)
+  * [Foundation Model](#foundation_model)
 
 ## <a name="robo_data_sim_argu"></a> Data/Simulation Argument
 - **cuRobo: Parallelized Collision-Free Minimum-Jerk Robot Motion Generation** <br>
@@ -250,7 +251,8 @@
   IEEE Robotics and Automation Letters, 2019.09 [[Paper](https://arxiv.org/abs/1909.12271)]
   [[Code](https://github.com/stepjam/RLBench)] ![](https://img.shields.io/github/stars/stepjam/RLBench?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/stepjam/RLBench?style=round-square&logo=Github&logoColor=white)  <br>
 
-
-## <a name="robo_uncategorized"></a> Uncategorized
-
-
+### <a name="foundation_model"></a> Foundation Model
+- **3D-VLA: A 3D Vision-Language-Action Generative World Model** `VLA` <br>
+  *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, et al., Chuang Gan* <br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.09631)], [[PDF](https://arxiv.org/pdf/2403.09631.pdf)], [[Home Page](https://vis-www.cs.umass.edu/3dvla/)]  <br>
+  [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)] ![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/UMass-Foundation-Model/3D-VLA?style=round-square&logo=Github&logoColor=white)  <br>

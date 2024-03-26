@@ -11,7 +11,6 @@
   * [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
   * [Consciousness](#consciousness)
   * [Dataset/Benchmark/Simulator/Tool](#ben_sim_tool)
-  * [Foundation Model](#foundation_model)
 * [Robotics Papers](#robotics_papers)
   * [Data/Simulation Argument](#robo_data_sim_argu)
   * [Manipulation](#robo_manipulation)
@@ -19,7 +18,9 @@
   * [Planning](#robo_planning)
   * [Task Adaptation](#robo_task_adapt)
   * [Dataset/Benchmark/Simulator/Tool](#robo_ben_sim_tool)
+  * [Foundation Model](#foundation_model)
   * [Survey](#robo_survey)
+  * [Foundation Model](#foundation_model)
 * [Product](#product)
 * [Expert Roles LLM](#expert_roles_llm)
 * [Tools](#tools)
@@ -350,11 +351,13 @@ For details please refer to [Papers List](papers/Robotics.md)
   Team: NVlabs NVIDIA <br>
   *Stephen James, Zicong Ma, David Rovick Arrojo, Andrew J. Davison* <br>
   IEEE Robotics and Automation Letters, 2019.09 [[Paper](https://arxiv.org/abs/1909.12271)], [[Code](https://github.com/stepjam/RLBench)]  <br>
+
+### <a name="foundation_model"></a> Foundation Model
+- **3D-VLA: A 3D Vision-Language-Action Generative World Model** `VLA` <br>
+  *Haoyu Zhen, Xiaowen Qiu, Peihao Chen, et al., Chuang Gan* <br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.09631)], [[PDF](https://arxiv.org/pdf/2403.09631.pdf)], [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)], [[Home Page](https://vis-www.cs.umass.edu/3dvla/)]  <br>
+
   
-
-
-### <a name="robo_uncategorized"></a> Uncategorized
-
 ## <a name="product"></a> Autonomous Agents Product
 For details, please refer to [Products List](products)
 
