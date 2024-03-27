@@ -6,6 +6,7 @@
   * [Consciousness](#consciousness)
   * [Dataset/Benchmark/Simulator/Tool](#ben_sim_tool)
   * [Foundation Model](#foundation_model)
+  * [Survey](#agent_survey)
   
 ## <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
 - **LLM Agent Operating System** `Agents OS` <br>
@@ -139,3 +140,10 @@
   *Zane Durante, Bidipta Sarkar, Ran Gong, et al., Qiuyuan Huang* <br>
   Team: Stanford University Fei-Fei Li, Microsoft <br>
   arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.05929)], [[PDF](https://arxiv.org/pdf/2402.05929.pdf)], [[Home Page](https://agentfoundationmodel.github.io/)] <br>
+
+### <a name="agent_survey"></a> Survey
+- **The Rise and Potential of Large Language Model Based Agents: A Survey** <br>
+  *Zhiheng Xi, Wenxiang Chen, Xin Guo, et al., Tao Gui* <br>
+  Team: Fudan University <br>
+  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.07864)], [[PDF](https://arxiv.org/pdf/2309.07864.pdf)] <br>
+  [[Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)] ![](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/WooooDyy/LLM-Agent-Paper-List?style=round-square&logo=Github&logoColor=white) <br>

@@ -11,6 +11,7 @@
   * [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
   * [Consciousness](#consciousness)
   * [Dataset/Benchmark/Simulator/Tool](#ben_sim_tool)
+  * [Survey](#agent_survey)
 * [Robotics Papers](#robotics_papers)
   * [Data/Simulation Argument](#robo_data_sim_argu)
   * [Manipulation](#robo_manipulation)
@@ -25,7 +26,6 @@
 * [Expert Roles LLM](#expert_roles_llm)
 * [Tools](#tools)
 * [Useful Blogs and Resources ](#blogs_and_resources)
-
 
 ## <a name="autonomous_agents_papers"></a> Autonomous Agents Papers
 
@@ -138,6 +138,16 @@ For details please refer to [Papers List](papers/Agents.md)
   *Zane Durante, Bidipta Sarkar, Ran Gong, et al., Qiuyuan Huang* <br>
   Team: Stanford University Fei-Fei Li, Microsoft <br>
   arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.05929)], [[PDF](https://arxiv.org/pdf/2402.05929.pdf)], [[Home Page](https://agentfoundationmodel.github.io/)] <br>
+
+### <a name="agent_survey"></a> Survey
+- **The Rise and Potential of Large Language Model Based Agents: A Survey** <br>
+  *Zhiheng Xi, Wenxiang Chen, Xin Guo, et al., Tao Gui* <br>
+  Team: Fudan University <br>
+  arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.07864)], [[PDF](https://arxiv.org/pdf/2309.07864.pdf)], [[Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)] <br>
+
+
+
+
 
 ## <a name="robotics_papers"></a> Robotics Papers
 For details please refer to [Papers List](papers/Robotics.md)
