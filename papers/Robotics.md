@@ -228,6 +228,10 @@
   *Harish Ravichandar, Athanasios S. Polydoros, Sonia Chernova, Aude Billard <br>
   Annual Review of Control, Robotics, and Autonomous Systems, 2020.05 [[Paper](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-100819-063206)], [[PDF](https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-100819-063206)]  <br>
 ## <a name="robo_ben_sim_tool"></a> Dataset/Benchmark/Simulator/Tool
+- **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset** `Dataset` <br>
+  Team: Stanford University, UC Berkeley, et al. <br>
+  *Alexander Khazatsky, Karl Pertsch, Suraj Nair, et al., Chelsea Finn* <br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.12945)], [[PDF](https://arxiv.org/pdf/2403.12945.pdf)], [[Home Page](https://droid-dataset.github.io/)], [[Dataset Visualizer](https://droid-dataset.github.io/visualizer/)], [[Colab Demo](https://colab.research.google.com/drive/1b4PPH4XGht4Jve2xPKMCh-AXXAQziNQa?usp=sharing)]  <br>
 - **BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation** `Benchmark` <br>
   Team: Stanford University, Fei-fei Li <br>
   *Chengshu Li, Ruohan Zhang, Josiah Wong, et al., Li Fei-Fei* <br>
