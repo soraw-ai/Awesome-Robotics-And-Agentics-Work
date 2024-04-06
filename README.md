@@ -164,6 +164,10 @@ For details please refer to [Papers List](papers/Robotics.md)
   *Yufei Wang, Zhou Xian, Feng Chen, et al., Chuang Gan* <br>
   arXiv, 2023.11 [[Paper](https://arxiv.org/abs/2311.01455)], [[Code](https://github.com/Genesis-Embodied-AI/RoboGen)]  <br>
 ### <a name="robo_manipulation"></a> Manipulation
+- **Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity** `Safty` <br>
+  Team: Google Deep Mind Robotics, UNC Chapel Hill. <br>
+  *Jake Varley, Sumeet Singh, Deepali Jain, et al., Vikas Sindhwani* <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.03570)], [[PDF](https://arxiv.org/pdf/2404.03570.pdf)]  <br>
 - **Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation** `Grasp` <br>
   *Yuanchen Ju, Kaizhe Hu, Guowei Zhang, et al., Huazhe Xu* <br>
   arXiv, 2024.01 [[Paper](https://arxiv.org/abs/2401.07487)], [[PDF](https://arxiv.org/pdf/2401.07487.pdf)], [[Code (TBD)](https://github.com/TEA-Lab/Robo-ABC)], [[Home Page](https://tea-lab.github.io/Robo-ABC/)]  <br>
