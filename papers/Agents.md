@@ -9,6 +9,9 @@
   * [Survey](#agent_survey)
   
 ## <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
+- **An Incomplete Loop: Deductive, Inductive, and Abductive Learning in Large Language Models** `Workflow` `Reasoning` <br>
+  *Emmy Liu, Graham Neubig, Jacob Andreas* <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.03028)], [[PDF](https://arxiv.org/pdf/2404.03028.pdf)], [[Code (TBD)](https://github.com/nightingal3/rule_induction)] <br>
 - **LLM Agent Operating System** `Agents OS` <br>
   *Kai Mei, Zelong Li, Shuyuan Xu, et al., Yongfeng Zhang* <br>
   arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.16971)], [[PDF](https://arxiv.org/pdf/2403.16971.pdf)] <br>
