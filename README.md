@@ -288,6 +288,10 @@ For details please refer to [Papers List](papers/Robotics.md)
   Team: Google Deepmind. <br>
   *Wenhao Yu, Nimrod Gileadi, Chuyuan Fu, etal., Fei Xia* <br>
   ICLR'23, arXiv, 2023.06 [[Paper](https://arxiv.org/abs/2306.08647)], [[PDF](https://arxiv.org/pdf/2306.08647.pdf)], [[Code](https://github.com/google-deepmind/language_to_reward_2023)], [[Home Page](https://language-to-reward.github.io/)], [[Demo](https://www.youtube.com/watch?v=7KiKg0rdSSQ)]  <br>
+- **Affordances From Human Videos as a Versatile Representation for Robotics** `Learn from Demo` <br>
+  Team: CMU, Meta. <br>
+  *Shikhar Bahl, Russell Mendonca, Lili Chen, Unnat Jain, Deepak Pathak* <br>
+  CVPR'23, arXiv, 2023.04 [[Paper](https://arxiv.org/abs/2304.08488)], [[PDF](https://arxiv.org/pdf/2304.08488.pdf)], [[Code](https://github.com/shikharbahl/vrb)], [[Home Page](https://robo-affordances.github.io/)], [[Demo (Video)](https://www.youtube.com/embed/Bik4s57iPsY)]<br>
 - **PaLM-E: An Embodied Multimodal Language Model** `Task Planning`, `Multimodal` <br>
   Team: Robotics at Google. <br>
   *Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, et al., Pete Florence* <br>
