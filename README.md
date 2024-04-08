@@ -95,8 +95,9 @@ For details please refer to [Papers List](papers/Agents.md)
   *Andrew Zhao, Daniel Huang, Quentin Xu, et al., Gao Huang* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.10144)] <br>
 - **Communicative Agents for Software Development** <br>
+  Team: OpenBMB <br>
   *Chen Qian, Xin Cong, Wei Liu, et al., Maosong Sun* <br>
-  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.07924)] <br>
+  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.07924)], [[PDF](https://arxiv.org/pdf/2307.07924.pdf)], [[Code](https://github.com/OpenBMB/ChatDev)] <br>
 - **Cognitive Architectures for Language Agents** <br>
   *Theodore Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths* <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.02427)] <br>
@@ -147,7 +148,10 @@ For details please refer to [Papers List](papers/Agents.md)
   *Zhiheng Xi, Wenxiang Chen, Xin Guo, et al., Tao Gui* <br>
   Team: Fudan University <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.07864)], [[PDF](https://arxiv.org/pdf/2309.07864.pdf)], [[Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)] <br>
-
+- **A Survey on Large Language Model based Autonomous Agents** <br>
+  *Lei Wang, Chen Ma, Xueyang Feng, et al., Ji-Rong Wen* <br>
+  Team: Renmin University <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.11432)], [[PDF](https://arxiv.org/pdf/2308.11432.pdf)], [[Paper List](https://github.com/Paitesanshi/LLM-Agent-Survey)] <br>
 
 
 

@@ -45,8 +45,10 @@
   *Andrew Zhao, Daniel Huang, Quentin Xu, Matthieu Lin, Yong-Jin Liu, Gao Huang* <br>
   arXiv, 2023.08. [[Paper](https://arxiv.org/abs/2308.10144)] <br>
 - **Communicative Agents for Software Development** <br>
-  *Chen Qian, Xin Cong, Wei Liu, Cheng Yang, Weize Chen, Yusheng Su, Yufan Dang, Jiahao Li, Juyuan Xu, Dahai Li, Zhiyuan Liu, Maosong Sun* <br>
-  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.07924)] <br>
+  Team: OpenBMB <br>
+  *Chen Qian, Xin Cong, Wei Liu, et al., Maosong Sun* <br>
+  arXiv, 2023.07 [[Paper](https://arxiv.org/abs/2307.07924)], [[PDF](https://arxiv.org/pdf/2307.07924.pdf)] <br>
+  [[Code](https://github.com/OpenBMB/ChatDev)] ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) <br>
 - **Cognitive Architectures for Language Agents** <br>
   *Theodore Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths* <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.02427)] <br>
@@ -150,3 +152,8 @@
   Team: Fudan University <br>
   arXiv, 2023.09 [[Paper](https://arxiv.org/abs/2309.07864)], [[PDF](https://arxiv.org/pdf/2309.07864.pdf)] <br>
   [[Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)] ![](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/WooooDyy/LLM-Agent-Paper-List?style=round-square&logo=Github&logoColor=white) <br>
+- **A Survey on Large Language Model based Autonomous Agents** <br>
+  *Lei Wang, Chen Ma, Xueyang Feng, et al., Ji-Rong Wen* <br>
+  Team: Renmin University <br>
+  arXiv, 2023.08 [[Paper](https://arxiv.org/abs/2308.11432)], [[PDF](https://arxiv.org/pdf/2308.11432.pdf)] <br>
+  [[Paper List](https://github.com/Paitesanshi/LLM-Agent-Survey)] ![](https://img.shields.io/github/stars/Paitesanshi/LLM-Agent-Survey?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/Paitesanshi/LLM-Agent-Survey?style=round-square&logo=Github&logoColor=white) <br>
