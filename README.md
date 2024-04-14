@@ -4,8 +4,7 @@
 
 ## Table of Content
 
-* [About Autonomous Agents](#about)
-* [Autonomous Agents Papers](#autonomous_agents_papers)
+* [Agentics Papers](#agentics_papers)
   * [LLM-Based Autonomous Agents](#llm_based_auto_agents)
   * [Traditional Autonomous Agents](#traditional_auto_agents)
   * [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
@@ -27,9 +26,9 @@
 * [Tools](#tools)
 * [Useful Blogs and Resources ](#blogs_and_resources)
 
-## <a name="autonomous_agents_papers"></a> Autonomous Agents Papers
+## <a name="agentics_papers"></a> Agentics Papers
 
-For details please refer to [Papers List](papers/Agents.md)
+For details please refer to [Papers List](papers/Agentics)
 
 ### <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
 - **An Incomplete Loop: Deductive, Inductive, and Abductive Learning in Large Language Models** `Workflow` `Reasoning` <br>
@@ -391,60 +390,36 @@ For details please refer to [Papers List](papers/Robotics.md)
 
   
 ## <a name="product"></a> Autonomous Agents Product
-For details, please refer to [Products List](products)
+For details, please refer to [Products List](products/Agentics.md)
 
-AI Agents Landscape, by Nov 15, 2023  [E2B](https://e2b.dev/blog/will-openai-s-gpts-kill-ai-agents)
+AI Agents in 2024, by Jan 02, 2024  [E2B](https://e2b.dev/blog/ai-agents-in-2024)
 <div align="center">
-  <img align="center" height="800" src="https://framerusercontent.com/images/XSI5aYgmRt8JSuEYsajAUPzVCs.png">
+  <img align="center" height="800" src="https://github.com/e2b-dev/awesome-ai-agents/blob/main/assets/landscape-latest.png">
 </div>
 
-- `R&D` **XAgent** <br>
-  Team: OpenBMB; NLP, Tsinghua University <br>
-  [[Code](https://github.com/OpenBMB/XAgent)] ![](https://img.shields.io/github/stars/OpenBMB/XAgent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/XAgent?style=round-square&logo=Github&logoColor=white)
-- `R&D` **AIWaves Agents** <br>
-  [[Code](https://github.com/aiwaves-cn/agents)] ![](https://img.shields.io/github/stars/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)
-- `R&D` **CoALA** `Code Not Released`<br>
-  [[Code](https://github.com/ysymyth/awesome-language-agents)] ![](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)
-- `R&D` **AgentVerse** <br>
-  Team: OpenBMB <br>
-  [[Code](https://github.com/OpenBMB/AgentVerse)] ![](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white)
-  
-- `R&D` **ChatDev** <br>
-  [[Code](https://github.com/OpenBMB/ChatDev)] ![](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)
-- `R&D` **GPT Researcher** <br>
-  [[Code](https://github.com/assafelovic/gpt-researcher)] ![](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)
-- `R&D` **Lagent** <br>
-  [[Code](https://github.com/InternLM/lagent)] ![](https://img.shields.io/github/stars/InternLM/lagent?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/InternLM/lagent?style=round-square&logo=Github&logoColor=white)
-- `R&D` **AgentSims** <br>
-  [[Code](https://github.com/py499372727/AgentSims)] ![](https://img.shields.io/github/stars/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)
-- `R&D` **AI Town** <br>
-  [[Code](https://github.com/a16z-infra/ai-town)] ![](https://img.shields.io/github/stars/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white)
-- `R&D`**WebArena** <br>
-  [[Code](https://github.com/web-arena-x/webarena)] ![](https://img.shields.io/github/stars/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)
-- `R&D` **Generative Agents** <br>
-  [[Code](https://github.com/joonspk-research/generative_agents)] ![](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)
-- `R&D`**MetaGPT** <br>
-  [[Code](https://github.com/geekan/MetaGPT)] ![](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)
-- `R&D` **Auto-GPT** <br>
-  [[Code](https://github.com/Significant-Gravitas/Auto-GPT)] ![](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)
-- `R&D` **Langchain** <br>
-  [[Code](https://github.com/hwchase17/langchain)] ![](https://img.shields.io/github/stars/hwchase17/langchain?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/hwchase17/langchain?style=round-square&logo=Github&logoColor=white)
-- `R&D` **BabyAG** <br>
-  [[Code](https://github.com/yoheinakajima/babyagi)] ![](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)
-- `Business` **AutoGen** <br>
-  Team: Microsoft <br>
-  [[Site](https://microsoft.github.io/autogen/)]<br>
-  [[Code](https://github.com/microsoft/autogen)] ![](https://img.shields.io/github/stars/microsoft/autogen?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/microsoft/autogen?style=round-square&logo=Github&logoColor=white)
-- `Business` **Council** <br>
-  [[Code](https://github.com/chain-ml/council)] ![](https://img.shields.io/github/stars/chain-ml/council?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/chain-ml/council?style=round-square&logo=Github&logoColor=white)
-- `Business`**SuperAGI** <br>
-  [[Code](https://github.com/TransformerOptimus/SuperAGI)] ![](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)
-- `Business` **AgentGPT** <br>
-  [[Code](https://github.com/reworkd/AgentGPT)] ![](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) 
-  Allowing user to configure and deploy Autonomous AI agents. Name users' own custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results
-- `Business` **AI Agent** <br>
-  [[Site](https://aiagent.app/)]
-  AI Agent is a flexible app that lets user create their own agents, by setting a name with an objective.
+|  Category  | Project           | Team                                 |                                            Code                                            |                                                              Stars                                                               |                                                                 Last Commit                                                                  | Description                                                                                             |
+|:----------:|:------------------|:-------------------------------------|:------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------|
+|    R&D     | XAgent            | OpenBMB; NLP, Tsinghua University    |                         [Code](https://github.com/OpenBMB/XAgent)                          |           ![Stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=round-square&logo=Github&logoColor=white)            |           ![Last Commit](https://img.shields.io/github/last-commit/OpenBMB/XAgent?style=round-square&logo=Github&logoColor=white)            | -                                                                                                       |
+|    R&D     | AIWaves Agents    | -                                    |                        [Code](https://github.com/aiwaves-cn/agents)                        |          ![Stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)          |          ![Last Commit](https://img.shields.io/github/last-commit/aiwaves-cn/agents?style=round-square&logo=Github&logoColor=white)          | -                                                                                                       |
+|    R&D     | CoALA             | -                                    |                 [Code](https://github.com/ysymyth/awesome-language-agents)                 |   ![Stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)   |   ![Last Commit](https://img.shields.io/github/last-commit/ysymyth/awesome-language-agents?style=round-square&logo=Github&logoColor=white)   | Code Not Released                                                                                       |
+|    R&D     | AgentVerse        | OpenBMB                              |                       [Code](https://github.com/OpenBMB/AgentVerse)                        |         ![Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white)          |         ![Last Commit](https://img.shields.io/github/last-commit/OpenBMB/AgentVerse?style=round-square&logo=Github&logoColor=white)          | -                                                                                                       |
+|    R&D     | ChatDev           | OpenBMB                              |                         [Code](https://github.com/OpenBMB/ChatDev)                         |           ![Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)           |           ![Last Commit](https://img.shields.io/github/last-commit/OpenBMB/ChatDev?style=round-square&logo=Github&logoColor=white)           | -                                                                                                       |
+|    R&D     | GPT Researcher    | -                                    |                   [Code](https://github.com/assafelovic/gpt-researcher)                    |     ![Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)      |     ![Last Commit](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher?style=round-square&logo=Github&logoColor=white)      | -                                                                                                       |
+|    R&D     | Lagent            | -                                    |                         [Code](https://github.com/InternLM/lagent)                         |           ![Stars](https://img.shields.io/github/stars/InternLM/lagent?style=round-square&logo=Github&logoColor=white)           |           ![Last Commit](https://img.shields.io/github/last-commit/InternLM/lagent?style=round-square&logo=Github&logoColor=white)           | -                                                                                                       |
+|    R&D     | AgentSims         | -                                    |                      [Code](https://github.com/py499372727/AgentSims)                      |        ![Stars](https://img.shields.io/github/stars/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)        |        ![Last Commit](https://img.shields.io/github/last-commit/py499372727/AgentSims?style=round-square&logo=Github&logoColor=white)        | -                                                                                                       |
+|    R&D     | AI Town           | a16z-infra                           |                       [Code](https://github.com/a16z-infra/ai-town)                        |         ![Stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white)          |         ![Last Commit](https://img.shields.io/github/last-commit/a16z-infra/ai-town?style=round-square&logo=Github&logoColor=white)          | -                                                                                                       |
+|    R&D     | WebArena          | -                                    |                      [Code](https://github.com/web-arena-x/webarena)                       |        ![Stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)         |        ![Last Commit](https://img.shields.io/github/last-commit/web-arena-x/webarena?style=round-square&logo=Github&logoColor=white)         | -                                                                                                       |
+|    R&D     | Generative Agents | -                                    |               [Code](https://github.com/joonspk-research/generative_agents)                | ![Stars](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)  | ![Last Commit](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)  | -                                                                                                       |
+|    R&D     | MetaGPT           | -                                    |                         [Code](https://github.com/geekan/MetaGPT)                          |           ![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)            |           ![Last Commit](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)            | -                                                                                                       |
+|    R&D     | Auto-GPT          | -                                    |                  [Code](https://github.com/Significant-Gravitas/Auto-GPT)                  |    ![Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)    |    ![Last Commit](https://img.shields.io/github/last-commit/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)    | -                                                                                                       |
+|    R&D     | Langchain         | -                                    |                       [Code](https://github.com/hwchase17/langchain)                       |         ![Stars](https://img.shields.io/github/stars/hwchase17/langchain?style=round-square&logo=Github&logoColor=white)         |         ![Last Commit](https://img.shields.io/github/last-commit/hwchase17/langchain?style=round-square&logo=Github&logoColor=white)         | -                                                                                                       |
+|    R&D     | BabyAG            | -                                    |                      [Code](https://github.com/yoheinakajima/babyagi)                      |        ![Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)        |        ![Last Commit](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)        | -                                                                                                       |
+|  Business  | AutoGen           | Microsoft                            | [Site](https://microsoft.github.io/autogen/) [Code](https://github.com/microsoft/autogen)  |          ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=round-square&logo=Github&logoColor=white)          |          ![Last Commit](https://img.shields.io/github/last-commit/microsoft/autogen?style=round-square&logo=Github&logoColor=white)          | -                                                                                                       |
+|  Business  | Council           | -                                    |                        [Code](https://github.com/chain-ml/council)                         |          ![Stars](https://img.shields.io/github/stars/chain-ml/council?style=round-square&logo=Github&logoColor=white)           |          ![Last Commit](https://img.shields.io/github/last-commit/chain-ml/council?style=round-square&logo=Github&logoColor=white)           | -                                                                                                       |
+|  Business  | SuperAGI          | -                                    |                   [Code](https://github.com/TransformerOptimus/SuperAGI)                   |     ![Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)     |     ![Last Commit](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI?style=round-square&logo=Github&logoColor=white)     | -                                                                                                       |
+|  Business  | AgentGPT          | -                                    |                        [Code](https://github.com/reworkd/AgentGPT)                         |          ![Stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white)           |          ![Last Commit](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white)           | Allowing user to configure and deploy Autonomous AI agents.                                             |
+|  Business  | AI Agent          | -                                    |                                [Site](https://aiagent.app/)                                |                                                                -                                                                 |                                                                      -                                                                       | AI Agent is a flexible app that lets user create their own agents, by setting a name with an objective. |
+
 
 ## <a name="expert_roles_llm"></a> Expert Roles LLM
 ### For Coding
@@ -470,8 +445,8 @@ This repository provides a set of ROS 2 packages to integrate llama.cpp into ROS
 
 ----
 ## Acknowledgement
-- [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) by Haoran Duan
-
+- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents/tree/main) by E2B
+  
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```

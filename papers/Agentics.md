@@ -1,12 +1,11 @@
-# Autonomous Agents Paper
-* [Autonomous Agents Papers](#autonomous_agents_papers)
-  * [LLM-Based Autonomous Agents](#llm_based_auto_agents)
-  * [Traditional Autonomous Agents](#traditional_auto_agents)
-  * [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
-  * [Consciousness](#consciousness)
-  * [Dataset/Benchmark/Simulator/Tool](#ben_sim_tool)
-  * [Foundation Model](#foundation_model)
-  * [Survey](#agent_survey)
+# Agentics Papers
+* [LLM-Based Autonomous Agents](#llm_based_auto_agents)
+* [Traditional Autonomous Agents](#traditional_auto_agents)
+* [LLM-based Swarm Intelligence](#llm_based_swarm_intelligence)
+* [Consciousness](#consciousness)
+* [Dataset/Benchmark/Simulator/Tool](#ben_sim_tool)
+* [Foundation Model](#foundation_model)
+* [Survey](#agent_survey)
   
 ## <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
 - **An Incomplete Loop: Deductive, Inductive, and Abductive Learning in Large Language Models** `Workflow` `Reasoning` <br>
