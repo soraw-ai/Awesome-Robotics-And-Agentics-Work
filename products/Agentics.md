@@ -129,3 +129,107 @@
 - **Description:** AI Town is a virtual town where AI characters live, chat, and socialize. Based on the Stanford generative agents project.
 - **Analysis:** [斯坦福小镇二创，8个智能体生活交友，猫猫小镇AI Town人人可搭](https://baijiahao.baidu.com/s?id=1774365864057414257&wfr=spider&for=pc) by 新智元 · Aug 16, 2023
 </details>
+
+<details>
+<summary><strong>BabyAGI</strong></summary>
+<br>
+
+- **GitHub:** [BabyAGI Repository](https://github.com/yoheinakajima/babyagi)
+- **Stars & Commits:** ![Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/yoheinakajima/babyagi?style=round-square&logo=Github&logoColor=white)
+- **Paper:** [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
+</details>
+
+<details>
+<summary><strong>Langchain</strong></summary>
+<br>
+
+- **GitHub:** [Langchain Repository](https://github.com/hwchase17/langchain)
+- **Stars & Commits:** ![Stars](https://img.shields.io/github/stars/hwchase17/langchain?style=round-square&logo=Github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/hwchase17/langchain?style=round-square&logo=Github&logoColor=white)
+- **Analysis:** [Langchain精读 by MetaGPT team](https://deepwisdom.feishu.cn/wiki/wikcnhYysy7aaewetJ2sUlZMbeh) - May 8, 2023
+</details>
+
+<details>
+<summary><strong>Auto-GPT</strong></summary>
+<br>
+
+- **GitHub:** [Auto-GPT Repository](https://github.com/Significant-Gravitas/Auto-GPT)
+- **Stars & Commits:** ![Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/Significant-Gravitas/Auto-GPT?style=round-square&logo=Github&logoColor=white)
+</details>
+
+<details>
+<summary><strong>MetaGPT</strong></summary>
+<br>
+
+- **GitHub:** [MetaGPT Repository](https://github.com/geekan/MetaGPT)
+- **Stars & Commits:** ![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/geekan/MetaGPT?style=round-square&logo=Github&logoColor=white)
+- **Role:** Assign different roles to GPTs to form a collaborative software entity for complex tasks.
+- **Documentation:** MetaGPT takes a one line requirement as input and outputs user stories, competitive analysis, requirements, data structures, APIs, and documents.
+- **Videos:**
+    - [MetaGPT作者深度解析直播回放](https://www.bilibili.com/video/BV1Ru411V7XL)
+    - [How To Install MetaGPT - Build A Startup With One Prompt!!](https://www.youtube.com/watch?v=uT75J_KG_aY)
+- **Demo Video:** [Watch Demo](https://github.com/geekan/MetaGPT/assets/2707039/5e8c1062-8c35-440f-bb20-2b0320f8d27d)
+</details>
+
+<details>
+<summary><strong>AgentGPT</strong></summary>
+<br>
+
+- **Website:** [AgentGPT](https://agentgpt.reworkd.ai/)
+- **GitHub:** [AgentGPT Repository](https://github.com/reworkd/AgentGPT)
+- **Stars & Commits:** ![Stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/reworkd/AgentGPT?style=round-square&logo=Github&logoColor=white)
+- **Functionality:** Allows users to configure and deploy Autonomous AI agents that can pursue any goal by thinking of tasks to do, executing them, and learning from the results.
+</details>
+
+<details>
+<summary><strong>Generative Agents</strong></summary>
+<br>
+
+- **GitHub:** [Generative Agents Repository](https://github.com/joonspk-research/generative_agents)
+- **Stars & Commits:** ![Stars](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/joonspk-research/generative_agents?style=round-square&logo=Github&logoColor=white)
+
+<div align="center">
+  <img src="assets/stanford_generative_agents.png" height="300">
+</div>
+</details>
+
+## Business Product
+
+<details>
+<summary><strong>AutoGen - Microsoft</strong></summary>
+<br>
+
+- **Website:** [AutoGen Site](https://microsoft.github.io/autogen/)
+- **Code:** [View on GitHub](https://github.com/microsoft/autogen)
+- **Stars & Commits:** ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=round-square&logo=Github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/microsoft/autogen?style=round-square&logo=Github&logoColor=white)
+</details>
+
+<details>
+<summary><strong>AI Agent</strong></summary>
+<br>
+
+- **Website:** [AI Agent App](https://aiagent.app/)
+- **Description:** Allows users to create their own agents by setting a name with an objective.
+</details>
+
+<details>
+<summary><strong>SuperAGI</strong></summary>
+<br>
+
+- **Website:** [SuperAGI Site](https://superagi.com/)
+- **GitHub:** [SuperAGI Repository](https://github.com/TransformerOptimus/SuperAGI)
+- **Analysis:** [SuperAGI Speed Framework](https://deepwisdom.feishu.cn/wiki/RlcCwJENIiC0YNkiu6Dcc9Ornlb) by MetaGPT team - June 5, 2023
+- **Demo Video:** [Watch Demo](https://github.com/Akki-jain/test/assets/92881074/bb18407a-b6b2-4a9f-9419-ec73ffacd2f8)
+</details>
+
+<details>
+<summary><strong>Council</strong></summary>
+<br>
+
+- **Website:** [Council Platform](https://www.chainml.net/council)
+- **GitHub:** [Council Repository](https://github.com/chain-ml/council)
+- **Stars & Commits:** ![Stars](https://img.shields.io/github/stars/chain-ml/council?style=round-square&logo=Github&logoColor=white) ![Last Commit](https://img.shields.io/github/last-commit/chain-ml/council?style=round-square&logo=Github&logoColor=white)
+
+<div align="center">
+  <img src="https://github.com/chain-ml/council/blob/main/docs/source/introduction/engine_flow.png" height="300">
+</div>
+</details>
