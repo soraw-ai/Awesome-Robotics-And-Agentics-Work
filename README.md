@@ -1,4 +1,4 @@
-# Awesome-Robotics-Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Robotics-And-Agentics-Work [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Areas covered in this repo:
 > `Robotics`, `AI Agents`, `Autonomous Agents`, `Multi-agents`, `LLM`
 
@@ -475,11 +475,11 @@ This repository provides a set of ROS 2 packages to integrate llama.cpp into ROS
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```
-@misc{rui2023roboticsautonomousagentslist,
-    title = {Awesome-Robotics-Learning},
+@misc{rui2023roboticsandagneticslist,
+    title = {Awesome-Robotics-And-Agentics-Work},
     author = {Rui Sun},
     journal = {GitHub repository},
-    url = {https://github.com/soraw-ai/Awesome-Robotics-Learning},
+    url = {https://github.com/soraw-ai/Awesome-Robotics-And-Agentics-Work},
     year = {2023},
 }
 ```
