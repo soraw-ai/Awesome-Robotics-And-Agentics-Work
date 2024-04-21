@@ -8,9 +8,20 @@
 * [Survey](#agent_survey)
   
 ## <a name="llm_based_auto_agents"></a> LLM-Based Autonomous Agents
+- **COMBO: Compositional World Models for Embodied Multi-Agent Cooperation** `Multi-agents Co-op` <br>
+  *Hongxin Zhang, Zeyuan Wang, Qiushi Lyu, Zheyuan Zhang, Sunli Chen, Tianmin Shu, Yilun Du, Chuang Gan* <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.10775)], [[PDF](https://arxiv.org/pdf/2404.10775.pdf)], [[Home Page](https://vis-www.cs.umass.edu/combo/)], [[Demo (Video)](https://vis-www.cs.umass.edu/combo/)] <br>
+  [[Code](https://github.com/UMass-Foundation-Model/COMBO)] ![](https://img.shields.io/github/stars/UMass-Foundation-Model/COMBO?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/UMass-Foundation-Model/COMBO?style=round-square&logo=Github&logoColor=white) <br>
+- **ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models** <br>
+  *Jinheon Baek, Sujay Kumar Jauhar, Silviu Cucerzan, Sung Ju Hwang* <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.07738)], [[PDF](https://arxiv.org/pdf/2404.07738.pdf)] <br>
 - **An Incomplete Loop: Deductive, Inductive, and Abductive Learning in Large Language Models** `Workflow` `Reasoning` <br>
   *Emmy Liu, Graham Neubig, Jacob Andreas* <br>
   arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.03028)], [[PDF](https://arxiv.org/pdf/2404.03028.pdf)], [[Code (TBD)](https://github.com/nightingal3/rule_induction)] <br>
+- **Scaling Instructable Agents Across Many Simulated Worlds** <br>
+  Team: DeepMind <br>
+  *SIMA Team, Maria Abi Raad, Arun Ahuja, et al., Nick Young*<br>
+  arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2404.10179)], [[PDF](https://arxiv.org/pdf/2404.07738.pdf)] <br>
 - **Mora: Enabling Generalist Video Generation via A Multi-Agent Framework** `Text2Video Generation` <br>
   *Zhengqing Yuan, Ruoxi Chen, Zhaoxu Li, et al., Lichao Sun* <br>
   arXiv, 2024.03 [[Paper](https://arxiv.org/abs/2403.13248)], [[PDF](https://arxiv.org/pdf/2403.13248.pdf)], [[Code (TBD)](https://github.com/lichao-sun/Mora)] <br>
@@ -149,6 +160,10 @@
   arXiv, 2024.02 [[Paper](https://arxiv.org/abs/2402.05929)], [[PDF](https://arxiv.org/pdf/2402.05929.pdf)], [[Home Page](https://agentfoundationmodel.github.io/)] <br>
 
 ### <a name="agent_survey"></a> Survey
+- **The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey** <br>
+  *Zhiheng Xi, Wenxiang Chen, Xin Guo, et al., Tao Gui* <br>
+  Team: IBM <br>
+  arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.11584)], [[PDF](https://arxiv.org/pdf/2404.11584.pdf)] <br>
 - **The Rise and Potential of Large Language Model Based Agents: A Survey** <br>
   *Zhiheng Xi, Wenxiang Chen, Xin Guo, et al., Tao Gui* <br>
   Team: Fudan University <br>

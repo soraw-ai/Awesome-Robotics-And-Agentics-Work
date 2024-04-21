@@ -92,6 +92,9 @@
   ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Home Page](https://vlmaps.github.io/)] <br>
   [[Code](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing)]  <br>
 ## <a name="robo_planning"></a> Planning
+- **SUGAR: Pre-training 3D Visual Representations for Robotics** <br>
+  *Shizhe Chen, Ricardo Garcia, Ivan Laptev, Cordelia Schmid* <br>
+  CVPR'24, arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.01491)], [[PDF](https://arxiv.org/pdf/2404.01491.pdf)], [[Home Page](https://cshizhe.github.io/projects/robot_sugar.html)] <br>
 - **DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation** `Motion Planning` <br>
   Team: Fei-Fei Li, Stanford University. <br>
   *Chen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, C. Karen Liu* <br>
