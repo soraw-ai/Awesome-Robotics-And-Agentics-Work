@@ -245,6 +245,9 @@ For details please refer to [Papers List](papers/Robotics.md)
   *Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard* <br>
   ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Code](https://arxiv.org/pdf/2308.07931.pdf)], [[Home Page](https://vlmaps.github.io/)]  <br>
 ### <a name="robo_planning"></a> Planning
+- **RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks** `Task Planning` <br>
+  *Ruiying Li<sup>&#42;</sup>, Yunlang Zhou<sup>&#42;</sup>, YuYao Zhu, et al., Wenhao Wang<sup>†</sup>, Yao Mu<sup>†</sup>* <br>
+  arXiv, 2026.03 [[Paper](https://arxiv.org/abs/2603.11558)], [[Code](https://github.com/RoboClaw-Robotics/RoboClaw)], [[Home Page](https://roboclaw-agibot.github.io/)]  <br>
 - **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection** <br>
   *Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, He Wang* <br>
   CVPR'25, arXiv, 2024.12 [[Paper](https://arxiv.org/abs/2412.04455)], [[Project](https://zhoues.github.io/Code-as-Monitor/)] <br>
