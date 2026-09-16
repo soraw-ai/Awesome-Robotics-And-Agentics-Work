@@ -92,6 +92,10 @@
   ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Home Page](https://vlmaps.github.io/)] <br>
   [[Code](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing)]  <br>
 ## <a name="robo_planning"></a> Planning
+- **RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks** `Task Planning` <br>
+  *Ruiying Li<sup>&#42;</sup>, Yunlang Zhou<sup>&#42;</sup>, YuYao Zhu, et al., Wenhao Wang<sup>†</sup>, Yao Mu<sup>†</sup>* <br>
+  arXiv, 2026.03 [[Paper](https://arxiv.org/abs/2603.11558)], [[Home Page](https://roboclaw-agibot.github.io/)] <br>
+  [[Code](https://github.com/RoboClaw-Robotics/RoboClaw)] ![](https://img.shields.io/github/stars/RoboClaw-Robotics/RoboClaw?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/RoboClaw-Robotics/RoboClaw?style=round-square&logo=Github&logoColor=white)  <br>
 - **SUGAR: Pre-training 3D Visual Representations for Robotics** <br>
   *Shizhe Chen, Ricardo Garcia, Ivan Laptev, Cordelia Schmid* <br>
   CVPR'24, arXiv, 2024.04 [[Paper](https://arxiv.org/abs/2404.01491)], [[PDF](https://arxiv.org/pdf/2404.01491.pdf)], [[Home Page](https://cshizhe.github.io/projects/robot_sugar.html)] <br>
